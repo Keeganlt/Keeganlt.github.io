@@ -28,7 +28,6 @@ Interested in joining us? Take a look at our [current opportunities](https://kee
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 
