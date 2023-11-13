@@ -24,5 +24,16 @@ We have a number of projects related to our new CDC ForeSITE Center as part of t
 Students interested in joining our lab can apply to a few different programs, including: [The Department of Population Health Sciences](https://medicine.utah.edu/population-health-sciences/phd) PhD program, [The Department of Mathematics Masters](https://www.math.utah.edu/graduate/) or PhD program, or [The Division of Public Health](https://medicine.utah.edu/dfpm/public-health/education/degrees) MPH, MSPH, MSTAT: Biostatistics Track or PhD program. When you reach out to discuss potential projects, we can also discuss which program is the best fit
 
 
-## Postdoctoral positions
+## Postdoctoral Positions
 Currently I do not have any funded postdoctoral openings. However, if you are interested in joining our group to complete postdoctoral research please contact me to discuss. You should be willing to apply for independent funding in due course. The Division of Epidemiology has an excellent track record of support for independent postdoctoral scientists that eventually seek independent research positions.
+
+{% include feature.html image="images/ScenarioModelUtah.jpeg" link="research" title="Our Publications" flip=true style="bare" text=text %}
+
+{% capture text %}
+
+## R0 Group
+I lead a student-focused group meeting for infectious disease epidemiology, dynamics, and modeling called R0. We welcome undergraduate, graduate, post-doctoral, and faculty researchers from all training backgrounds to join us to talk about ongoing research, recent publications, and news articles regarding infectious disease modeling. For information about how to join the weekly meetings, please reach out.
+
+{% include button.html type="email" text="lindsay.keegan@utah.edu" link="lindsay.keegan@utah.edu" %}
+
+{% endcapture %}
