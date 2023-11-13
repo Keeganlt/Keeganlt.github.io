@@ -1,5 +1,5 @@
 ---
-name: Tierney O’Sullivan
+name: Tierney O’Sullivan (She/Her)
 image: images/O’Sullivan_Tierney-09.jpg
 role: phd
 ---
