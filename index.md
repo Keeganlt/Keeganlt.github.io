@@ -24,7 +24,7 @@ Decisions about public health response to an outbreak need to be made even when 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/K01Aims.png"
   link="projects"
   title="Our Research"
   text=text
@@ -47,7 +47,7 @@ Our team works on a multitude of different pathogen systems and as such, we have
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ScenarioModelUtah.jpeg"
   link="research"
   title="Our Publications"
   flip=true
