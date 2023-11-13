@@ -2,6 +2,8 @@
 name: Sharia Ahmed (She/Her)
 image: images/Ahmedheadshot.jpg
 role: research-assoc
+aliases:
+  - S Ahmed
 ---
 
 Research Associate
