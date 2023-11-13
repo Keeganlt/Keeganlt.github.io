@@ -2,6 +2,8 @@
 name: Tierney O’Sullivan (She/Her)
 image: images/O’Sullivan_Tierney-09.jpg
 role: phd
+aliases:
+  - T O'Sullivan
 ---
 
 Doctoral Student in Population Health Sciences
