@@ -1,8 +1,8 @@
 ---
 title: Opportunities
 nav:
-  order: 1
-  tooltip: Opportunities
+  order: 5
+  tooltip: Join us!
 ---
 
 # {% include icon.html icon="fa-solid fa-flask" %}Opportunities
