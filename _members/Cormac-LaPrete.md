@@ -2,6 +2,8 @@
 name: Mac LaPrete (He/They)
 image: images/laprete_pic.jpeg
 role: phd
+aliases:
+  -C LaPrete
 ---
 Doctoral Student in Mathematics
 
