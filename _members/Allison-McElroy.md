@@ -2,6 +2,8 @@
 name: Allison McElroy (She/Her)
 image: images/Hopefully+Professional+Picture+of+Allison.jpg
 role: alumni
+aliases:
+  - A McElroy
 ---
 
 B.S. in Biology
