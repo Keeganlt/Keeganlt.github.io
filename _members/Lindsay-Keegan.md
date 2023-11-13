@@ -1,6 +1,6 @@
 ---
 name: Lindsay Keegan
-image: images/KeeganHeadshot.jpg
+image: images/KeeganHeadshot.png
 role: pi
 aliases:
   - L. Keegan
