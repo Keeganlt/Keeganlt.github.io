@@ -1,6 +1,6 @@
 ---
 name: Jake Baldorf (He/Him)
-image: images/noun_person
+image: images/noun_person.png
 role: undergrad
 aliases:
  - J Baldorf
