@@ -1,5 +1,5 @@
 ---
-name: Lindsay Keegan, PhD (She/Her)
+name: Lindsay Keegan (She/Her)
 image: images/KeeganHeadshot.png
 role: pi
 links:
