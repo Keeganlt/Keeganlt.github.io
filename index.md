@@ -9,7 +9,7 @@
 
 {% capture text %}
 
-Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. Our group develops and applies mathematical and statistical methods to quantify infectious disease dynamics to inform decision suport for public health and healthcare response to outbreak. 
+Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. Our group develops and applies mathematical and statistical methods to quantify infectious disease dynamics to inform decision suport for public health and healthcare response to outbreak. Detail on on our funded projects can be found on our research page. 
 
 {%
   include button.html
@@ -57,7 +57,7 @@ Our team works on a multitude of different pathogen systems and as such, we have
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are an interdiciplinary team of epidemiologists, mathematicians, statisticians, and biologists. We value the differences in perspecitves that diverse backgrounds bring to our team. 
 
 {%
   include button.html
