@@ -1,5 +1,5 @@
 
-# Keeganlt's Website
+# Applied Infectious Disease Dynamics Website
 
 Visit **[keeganlt.github.io/AppliedIDD-website](https://keeganlt.github.io/AppliedIDD-website)** 🚀
 
