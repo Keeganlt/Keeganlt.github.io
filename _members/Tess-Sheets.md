@@ -2,6 +2,8 @@
 name: Tess Sheets (She/Her)
 image: images/map.jpg
 role: alumni
+aliases:
+  - T Sheets
 ---
 
 Tess Sheets
