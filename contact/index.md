@@ -7,28 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+For interest or inquiries about joining the lab, please reach out! Our lab sits within the [Infectious Disease Dyanmics](https://www.utahinfectiousdiseasedynamics.org/) group at the University of Utah in the [Division of Epidemiology](https://medicine.utah.edu/internal-medicine/epidemiology), within Department of Internal Medicine at the Spencer Fox Eccles School of Medicine. We are located at the base of the foothills of the beautiful Wasatch Mountains.
+
+Our lab sits on unceded Ute, Goshute, Shoshone, and Paiute land. We honor the relationships these tribes have with this land we occupy; we seek to minimize the harm done to this land, its people, and its ecology.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="lindsay.keegan@utah.edu"
+  link="lindsay.keegan@utah.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+
 
 {% include section.html %}
 
@@ -36,9 +25,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/LivingRoomSunset.JPG"
+  caption="Our lab is at the traihead of this hike"
 %}
+
 
 {% endcapture %}
 
@@ -46,32 +36,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/SuperiorSunset.JPG"
+  caption="In the heart of nearby the Wasatch Mountains"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
