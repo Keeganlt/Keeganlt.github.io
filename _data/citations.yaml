@@ -512,8 +512,10 @@
   date: '2021-12-23'
   link: https://doi.org/gs4m2q
   orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2787438#zld210279f1
 - id: doi:10.1001/jamanetworkopen.2021.0971
   title: Association Between Contact Precautions and Transmission of Methicillin-Resistant
     <i>Staphylococcus aureus</i> in Veterans Affairs Hospitals
@@ -532,8 +534,10 @@
   date: '2021-03-15'
   link: https://doi.org/gmx7wd
   orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777439#zoi210048f2
 - id: doi:10.1371/journal.pone.0253407
   title: Comparison of antigen- and RT-PCR-based testing strategies for detection
     of SARS-CoV-2 in two high-exposure settings
@@ -1497,5 +1501,220 @@
   type: paper
   image: https://academic.oup.com/view-large/figure/204930996/ciz808f0004.jpg
   repo: shauntruelove/Diphtheria
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1038/s41597-022-01517-w
+  title: The United States COVID-19 Forecast Hub dataset
+  authors:
+  - Estee Y. Cramer
+  - Yuxin Huang
+  - Yijin Wang
+  - Evan L. Ray
+  - Matthew Cornell
+  - Johannes Bracher
+  - Andrea Brennen
+  - Alvaro J. Castro Rivadeneira
+  - Aaron Gerding
+  - Katie House
+  - Dasuni Jayawardena
+  - Abdul Hannan Kanji
+  - Ayush Khandelwal
+  - Khoa Le
+  - Vidhi Mody
+  - Vrushti Mody
+  - Jarad Niemi
+  - Ariane Stark
+  - Apurv Shah
+  - Nutcha Wattanchit
+  - Martha W. Zorn
+  - Nicholas G. Reich
+  publisher: Scientific Data
+  date: '2022-08-01'
+  link: https://www.nature.com/articles/s41597-022-01517-w
+  type: paper
+  image: https://www.nature.com/articles/s41597-022-01517-w/figures/1
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.3201/eid2705.203075
+  title: "Coordinated Strategy for a Model-Based Decision Support Tool for Coronavirus\
+    \ Disease, Utah, USA - Volume 27, Number 5\u2014May 2021 - Emerging Infectious\
+    \ Diseases journal - CDC"
+  authors:
+  - Hannah R. Meredith
+  - Emerson Arehart
+  - Kyra H. Grantz
+  - Alexander Beams
+  - Theresa Sheets
+  - Richard Nelson
+  - Yue Zhang
+  - Russell G. Vinik
+  - Darryl Barfuss
+  - Jacob C. Pettit
+  - Keegan McCaffrey
+  - Angela C. Dunn
+  - Michael Good
+  - Shannon Frattaroli
+  - Matthew H. Samore
+  - Justin Lessler
+  - Elizabeth C. Lee
+  - Lindsay T. Keegan
+  publisher: ''
+  date: ''
+  link: https://wwwnc.cdc.gov/eid/article/27/5/20-3075_article
+  type: paper
+  image: https://wwwnc.cdc.gov/eid/article/27/5/20-3075-f3
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1038/s41598-021-86811-0
+  title: A scenario modeling pipeline for COVID-19 emergency planning
+  authors:
+  - Joseph C. Lemaitre
+  - Kyra H. Grantz
+  - Joshua Kaminsky
+  - Hannah R. Meredith
+  - Shaun A. Truelove
+  - Stephen A. Lauer
+  - Lindsay T. Keegan
+  - Sam Shah
+  - Josh Wills
+  - Kathryn Kaminsky
+  - Javier Perez-Saez
+  - Justin Lessler
+  - Elizabeth C. Lee
+  publisher: Scientific Reports
+  date: '2021-04-06'
+  link: https://www.nature.com/articles/s41598-021-86811-0
+  type: paper
+  image: https://www.nature.com/articles/s41598-021-86811-0#Fig2
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1177/003335492098812
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1177/003335492098812
+  type: paper
+  image: https://journals.sagepub.com/doi/10.1177/0033354920988612#fig2-0033354920988612
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.7554/eLife.63009
+  title: A modular approach to integrating multiple data sources into real-time clinical
+    prediction for pediatric diarrhea
+  authors:
+  - Ben J Brintz
+  - Benjamin Haaland
+  - Joel Howard
+  - Dennis L Chao
+  - Joshua L Proctor
+  - Ashraful I Khan
+  - Sharia M Ahmed
+  - Lindsay T Keegan
+  - Tom Greene
+  - Adama Mamby Keita
+  - Karen L Kotloff
+  - James A Platts-Mills
+  - Eric J Nelson
+  - Adam C Levine
+  - Andrew T Pavia
+  - Daniel T Leung
+  publisher: eLife
+  date: '2021-02-02'
+  link: https://doi.org/10.7554/eLife.63009
+  type: paper
+  image: https://elifesciences.org/articles/63009#fig5
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.vaccine.2020.06.081
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.vaccine.2020.06.081
+  type: paper
+  image: https://www.sciencedirect.com/science/article/pii/S0264410X20308847?via%3Dihub#f0005
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1098/rstb.2018.0279
+  title: Perfect counterfactuals for epidemic simulations
+  authors:
+  - Joshua Kaminsky
+  - Lindsay T. Keegan
+  - C. Jessica E. Metcalf
+  - Justin Lessler
+  publisher: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  date: '2019-07-08'
+  link: https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0279
+  type: paper
+  image: https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0279#RSTB20180279F3
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1073/pnas.1714457115
+  title: "Prospective forecasts of annual dengue hemorrhagic fever incidence in Thailand,\
+    \ 2010\u20132014"
+  authors:
+  - Stephen A. Lauer
+  - Krzysztof Sakrejda
+  - Evan L. Ray
+  - Lindsay T. Keegan
+  - Qifang Bi
+  - Paphanij Suangtho
+  - Soawapak Hinjoy
+  - Sopon Iamsirithaworn
+  - Suthanun Suthachana
+  - Yongjua Laosiritaworn
+  - Derek A.T. Cummings
+  - Justin Lessler
+  - Nicholas G. Reich
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-03-06'
+  link: https://pnas.org/doi/full/10.1073/pnas.1714457115
+  type: paper
+  image: https://www.pnas.org/doi/full/10.1073/pnas.1714457115#fig04
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/infdis/jix437
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://academic.oup.com/jid/article/216/suppl_10/S884/4753675?login=false
+  type: paper
+  image: https://academic.oup.com/view-large/figure/113026565/jix43702.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.jtbi.2016.01.022
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.jtbi.2016.01.022
+  type: paper
+  image: https://www.sciencedirect.com/science/article/pii/S0022519316000552?via%3Dihub#f0005
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1007/s11538-014-9950-x
+  title: Analytic Calculation of Finite-Population Reproductive Numbers for Direct-
+    and Vector-Transmitted Diseases with Homogeneous Mixing
+  authors:
+  - Lindsay Keegan
+  - Jonathan Dushoff
+  publisher: Bulletin of Mathematical Biology
+  date: '2014-05-01'
+  link: https://doi.org/10.1007/s11538-014-9950-x
+  type: paper
+  image: https://link.springer.com/article/10.1007/s11538-014-9950-x#Fig4
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1186/1471-2334-13-428
+  title: Population-level effects of clinical immunity to malaria
+  authors:
+  - Lindsay T. Keegan
+  - Jonathan Dushoff
+  publisher: BMC Infectious Diseases
+  date: '2013-09-11'
+  link: https://doi.org/10.1186/1471-2334-13-428
+  type: paper
+  image: https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-13-428#Fig4
   plugin: sources.py
   file: sources.yaml
