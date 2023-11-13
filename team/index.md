@@ -10,11 +10,16 @@ nav:
 
 {% include section.html %}
 
+## Current Team
+
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: research-assoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
+## Alumni 
+
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
 {% include section.html dark=true %}
