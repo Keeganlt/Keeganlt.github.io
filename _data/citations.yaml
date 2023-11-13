@@ -1494,7 +1494,6 @@
   publisher: ''
   date: ''
   link: https://academic.oup.com/cid/article/71/1/89/5551532?login=false
-  type: paper
   image: https://academic.oup.com/view-large/figure/204930996/ciz808f0004.jpg
   repo: shauntruelove/Diphtheria
   plugin: sources.py
