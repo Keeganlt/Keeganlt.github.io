@@ -24,7 +24,7 @@ Decisions about public health response to an outbreak need to be made even when 
 
 {%
   include feature.html
-  image="images/K01Aims.png"
+  image="images/K01Aim_long.png"
   link="projects"
   title="Our Research"
   text=text
