@@ -1,6 +1,6 @@
 ---
 name: Allison McElroy (She/Her)
-image: images/Hopefully+Professional+Picture+of+Allison.jpg
+image: images/AllisonMcelroy.jpg
 role: alumni
 aliases:
   - A McElroy
