@@ -16,7 +16,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
-<-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -26,8 +25,8 @@ Interested in joining us? Take a look at our [current opportunities](https://kee
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/CDC_Talk.png" %}
+{% include figure.html image="images/CFAVisit.jpeg" %}
 
 {% endcapture %}
 
