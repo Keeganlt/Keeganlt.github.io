@@ -1,7 +1,7 @@
 ---
 name: Alicia Horn (She/Her)
 image: images/Alicia.jpeg
-role: undergraduate
+role: undergrad
 ---
 
 Undergraduate student majoring in Biology
