@@ -11,7 +11,12 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: research-assoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: masters" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+<-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
