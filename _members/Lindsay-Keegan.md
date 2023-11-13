@@ -3,11 +3,7 @@ name: Lindsay Keegan
 image: images/KeeganHeadshot.png
 role: pi
 aliases:
-  - L. Keegan
-  - LT. Keegan
-  - L.T. Keegan
-  - L Keegan
-  - LT Keegan
+  -  Keegan
 links:
   orcid: 0000-0002-8526-3007
 ---
