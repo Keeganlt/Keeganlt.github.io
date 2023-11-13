@@ -20,10 +20,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Where does this show up? 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Interested in joining us? Take a look at our [current opportunities](https://keeganlt.github.io/AppliedIDD-website/opportunities/).
 
 {% include section.html %}
 
