@@ -2,6 +2,8 @@
 name: Jake Baldorf (He/Him)
 image: images/noun_person
 role: undergrad
+aliases:
+ - J Baldorf
 ---
  
 B.S. in Biostatistics (Brigham Young University)
