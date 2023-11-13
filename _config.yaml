@@ -2,9 +2,11 @@
 title: Applied Infectious Disease Dyanmcis 
 subtitle: 
 description: Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. 
-
+logo-text: false
 header: images/CampusViewTop.jpg
 footer: images/CampusViewBottom.png
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:
