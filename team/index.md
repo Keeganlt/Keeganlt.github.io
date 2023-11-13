@@ -17,7 +17,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 Interested in joining us? Take a look at our [current opportunities](https://keeganlt.github.io/AppliedIDD-website/opportunities/).
 
