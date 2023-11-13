@@ -23,8 +23,12 @@ masters:
   description: Masters Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-school
   description: Undergraduate Student
+  
+alumni:
+  icon: fa-solid fa-user-graduate
+  description: Alumni
 
 programmer:
   icon: fa-solid fa-code
