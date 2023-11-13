@@ -1,7 +1,7 @@
 ---
 title: Opportunities
 nav:
-  order: 1
+  order: 5
   tooltip: Opportunities
 ---
 
