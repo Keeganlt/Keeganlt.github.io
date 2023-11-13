@@ -2,8 +2,6 @@
 name: Lindsay Keegan
 image: images/KeeganHeadshot.png
 role: pi
-aliases:
-  -  Keegan
 links:
   orcid: 0000-0002-8526-3007
 ---
