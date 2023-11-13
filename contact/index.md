@@ -23,24 +23,12 @@ Our lab sits on unceded Ute, Goshute, Shoshone, and Paiute land. We honor the re
 
 {% include section.html %}
 
-{% capture col1 %}
+{% capture content %}
 
-{%
-  include figure.html
-  image="images/LivingRoomSunset.jpg"
-  caption="Our lab is at the traihead of this hike"
-%}
-
+{% include figure.html image="images/LivingRoomSunset.jpg" %}
+{% include figure.html image="images/SuperiorSunset.jpg" %}
 
 {% endcapture %}
 
-{% capture col2 %}
 
-{%
-  include figure.html
-  image="images/SuperiorSunset.jpg"
-  caption="In the heart of nearby the Wasatch Mountains"
-%}
-
-{% endcapture %}
 
