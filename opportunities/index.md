@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Opportunities
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Opportunities
 ---
 
-# {% include icon.html icon="fa-solid fa-file-lines" %}Publications
+# {% include icon.html icon="fa-solid fa-flask" %}Opportunities
