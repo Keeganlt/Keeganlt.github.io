@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.11.13.23298464
+  title: 'Assessing the Impact of Mask Mandates on SARS-CoV-2 Transmission: A Case
+    Study of Utah'
+  authors:
+  - Alicia C. Horn
+  - Holly E. Shoemaker
+  - Lindsay T. Keegan
+  publisher: medRxiv
+  date: '2023-11-13'
+  link: https://doi.org/gs4qrw
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2021.02.03.21250974
   title: Evaluation of individual and ensemble probabilistic forecasts of COVID-19
     mortality in the US
