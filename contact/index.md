@@ -27,6 +27,9 @@ Our lab sits on unceded Ute, Goshute, Shoshone, and Paiute land. We honor the re
 
 {% include figure.html image="images/LivingRoomSunset.jpg" %}
 {% include figure.html image="images/SuperiorSunset.jpg" %}
+{% include figure.html image="images/DelicateArch.jpg" %}
+
+
 
 {% endcapture %}
 
