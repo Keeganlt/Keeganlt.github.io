@@ -1,3 +1,7 @@
 - id: pubmed:31425581
   image: https://academic.oup.com/view-large/figure/204930996/ciz808f0004.jpg
   repo: shauntruelove/Diphtheria
+
+- id: doi:10.1101/2023.11.13.23298464
+  type: paper
+  image: images/Efm_copy.png
