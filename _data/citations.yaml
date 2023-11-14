@@ -936,7 +936,7 @@
     Diseases Society of America'
   date: '2020-06-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31425581
-  image: https://academic.oup.com/view-large/figure/204930996/ciz808f0004.jpg
+  image: images/Diphth.png
   repo: shauntruelove/Diphtheria
   plugin: sources.py
   file: sources.yaml
