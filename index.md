@@ -5,8 +5,6 @@
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
 Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. Our group develops and applies mathematical and statistical methods to quantify infectious disease dynamics to inform decision suport for public health and healthcare response to outbreak. Detail on on our funded projects can be found on our research page. 
