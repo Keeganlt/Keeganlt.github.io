@@ -7,8 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-viruses" %}Research Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. Our group develops and applies mathematical and statistical methods to quantify infectious disease dynamics to inform decision suport for public health and healthcare response to outbreak. 
+
+Work from our group has has served as the backbone for the public health response to SARS-CoV-2 in Utah and other states and to Diphtheria outbreak responses across 2 continents. We are currently working to better understand how to reconstruct transmission and determine who-infected-whom healthcare associated pathogens, to improve the modeling toolkit for state and local public health agencies across the intermountain west to respond respiratory viruses, and to reduce transmission of epidemic Cholera through expanded treatment.
+
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,7 +18,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## Reconstructing transmission of healthcare associated infections
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
