@@ -1,367 +1,884 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.11.13.23298464
-  title: 'Assessing the Impact of Mask Mandates on SARS-CoV-2 Transmission: A Case
-    Study of Utah'
-  authors:
-  - Alicia C. Horn
-  - Holly E. Shoemaker
-  - Lindsay T. Keegan
-  publisher: medRxiv
-  date: '2023-11-13'
-  link: https://doi.org/gs4qrw
-  orcid: 0000-0002-8526-3007
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  image: images/Efm_copy.png
-- id: doi:10.1093/aje/kwac201
-  title: Are <i>Staphylococcus aureus</i> Carrier Types Evidence of Population Heterogeneity?
-  authors:
-  - Alexander Beams
-  - Lindsay T Keegan
-  - Frederick R Adler
-  - Matthew H Samore
-  - Karim Khader
-  - Damon J A Toth
-  publisher: American Journal of Epidemiology
-  date: '2022-11-17'
-  link: https://doi.org/gs4qv7
-  orcid: 0000-0002-8526-3007
+- id: doi:10.1093/infdis/jiad500
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/gs4qz7
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.02.03.21250974
-  title: Evaluation of individual and ensemble probabilistic forecasts of COVID-19
-    mortality in the US
+- id: doi:10.1101/2023.10.12.23296959
+  title: Assessment of Model Estimated and Directly Observed Weather Data for Etiological
+    Prediction of Diarrhea
   authors:
-  - Estee Y. Cramer
-  - Evan L. Ray
-  - Velma K. Lopez
-  - Johannes Bracher
-  - Andrea Brennen
-  - Alvaro J. Castro Rivadeneira
-  - Aaron Gerding
-  - Tilmann Gneiting
-  - Katie H. House
-  - Yuxin Huang
-  - Dasuni Jayawardena
-  - Abdul H. Kanji
-  - Ayush Khandelwal
-  - Khoa Le
-  - "Anja M\xFChlemann"
-  - Jarad Niemi
-  - Apurv Shah
-  - Ariane Stark
-  - Yijin Wang
-  - Nutcha Wattanachit
-  - Martha W. Zorn
-  - Youyang Gu
-  - Sansiddh Jain
-  - Nayana Bannur
-  - Ayush Deva
-  - Mihir Kulkarni
-  - Srujana Merugu
-  - Alpan Raval
-  - Siddhant Shingi
-  - Avtansh Tiwari
-  - Jerome White
-  - Neil F. Abernethy
-  - Spencer Woody
-  - Maytal Dahan
-  - Spencer Fox
-  - Kelly Gaither
-  - Michael Lachmann
-  - Lauren Ancel Meyers
-  - James G. Scott
-  - Mauricio Tec
-  - Ajitesh Srivastava
-  - Glover E. George
-  - Jeffrey C. Cegan
-  - Ian D. Dettwiller
-  - William P. England
-  - Matthew W. Farthing
-  - Robert H. Hunter
-  - Brandon Lafferty
-  - Igor Linkov
-  - Michael L. Mayo
-  - Matthew D. Parno
-  - Michael A. Rowland
-  - Benjamin D. Trump
-  - Yanli Zhang-James
-  - Samuel Chen
-  - Stephen V. Faraone
-  - Jonathan Hess
-  - Christopher P. Morley
-  - Asif Salekin
-  - Dongliang Wang
-  - Sabrina M. Corsetti
-  - Thomas M. Baer
-  - Marisa C. Eisenberg
-  - Karl Falb
-  - Yitao Huang
-  - Emily T. Martin
-  - Ella McCauley
-  - Robert L. Myers
-  - Tom Schwarz
-  - Daniel Sheldon
-  - Graham Casey Gibson
-  - Rose Yu
-  - Liyao Gao
-  - Yian Ma
-  - Dongxia Wu
-  - Xifeng Yan
-  - Xiaoyong Jin
-  - Yu-Xiang Wang
-  - YangQuan Chen
-  - Lihong Guo
-  - Yanting Zhao
-  - Quanquan Gu
-  - Jinghui Chen
-  - Lingxiao Wang
-  - Pan Xu
-  - Weitong Zhang
-  - Difan Zou
-  - Hannah Biegel
-  - Joceline Lega
-  - Steve McConnell
-  - V. P. Nagraj
-  - Stephanie L. Guertin
-  - Christopher Hulme-Lowe
-  - Stephen D. Turner
-  - Yunfeng Shi
-  - Xuegang Ban
-  - Robert Walraven
-  - Qi-Jun Hong
-  - Stanley Kong
-  - Axel Walle
-  - James A. Turtle
-  - Michal Ben-Nun
-  - Steven Riley
-  - Pete Riley
-  - Ugur Koyluoglu
-  - David DesRoches
-  - Pedro Forli
-  - Bruce Hamory
-  - Christina Kyriakides
-  - Helen Leis
-  - John Milliken
-  - Michael Moloney
-  - James Morgan
-  - Ninad Nirgudkar
-  - Gokce Ozcan
-  - Noah Piwonka
-  - Matt Ravi
-  - Chris Schrader
-  - Elizabeth Shakhnovich
-  - Daniel Siegel
-  - Ryan Spatz
-  - Chris Stiefeling
-  - Barrie Wilkinson
-  - Alexander Wong
-  - Sean Cavany
-  - "Guido Espa\xF1a"
-  - Sean Moore
-  - Rachel Oidtman
-  - Alex Perkins
-  - David Kraus
-  - Andrea Kraus
-  - Zhifeng Gao
-  - Jiang Bian
-  - Wei Cao
-  - Juan Lavista Ferres
-  - Chaozhuo Li
-  - Tie-Yan Liu
-  - Xing Xie
-  - Shun Zhang
-  - Shun Zheng
-  - Alessandro Vespignani
-  - Matteo Chinazzi
-  - Jessica T. Davis
-  - Kunpeng Mu
-  - Ana Pastore Piontti
-  - Xinyue Xiong
-  - Andrew Zheng
-  - Jackie Baek
-  - Vivek Farias
-  - Andreea Georgescu
-  - Retsef Levi
-  - Deeksha Sinha
-  - Joshua Wilde
-  - Georgia Perakis
-  - Mohammed Amine Bennouna
-  - David Nze-Ndong
-  - Divya Singhvi
-  - Ioannis Spantidakis
-  - Leann Thayaparan
-  - Asterios Tsiourvas
-  - Arnab Sarker
-  - Ali Jadbabaie
-  - Devavrat Shah
-  - Nicolas Della Penna
-  - Leo A. Celi
-  - Saketh Sundar
-  - Russ Wolfinger
-  - Dave Osthus
-  - Lauren Castro
-  - Geoffrey Fairchild
-  - Isaac Michaud
-  - Dean Karlen
-  - Matt Kinsey
-  - Luke C. Mullany
-  - Kaitlin Rainwater-Lovett
-  - Lauren Shin
-  - Katharine Tallaksen
-  - Shelby Wilson
-  - Elizabeth C. Lee
-  - Juan Dent
-  - Kyra H. Grantz
-  - Alison L. Hill
-  - Joshua Kaminsky
-  - Kathryn Kaminsky
-  - Lindsay T. Keegan
-  - Stephen A. Lauer
-  - Joseph C. Lemaitre
-  - Justin Lessler
-  - Hannah R. Meredith
-  - Javier Perez-Saez
-  - Sam Shah
-  - Claire P. Smith
-  - Shaun A. Truelove
-  - Josh Wills
-  - Maximilian Marshall
-  - Lauren Gardner
-  - Kristen Nixon
-  - John C. Burant
-  - Lily Wang
-  - Lei Gao
-  - Zhiling Gu
-  - Myungjin Kim
-  - Xinyi Li
-  - Guannan Wang
-  - Yueying Wang
-  - Shan Yu
-  - Robert C. Reiner
-  - Ryan Barber
-  - Emmanuela Gakidou
-  - Simon I. Hay
-  - Steve Lim
-  - Chris J. L. Murray
-  - David Pigott
-  - Heidi L. Gurung
-  - Prasith Baccam
-  - Steven A. Stage
-  - Bradley T. Suchoski
-  - B. Aditya Prakash
-  - Bijaya Adhikari
-  - Jiaming Cui
-  - "Alexander Rodr\xEDguez"
-  - Anika Tabassum
-  - Jiajia Xie
-  - Pinar Keskinocak
-  - John Asplund
-  - Arden Baxter
-  - Buse Eylul Oruc
-  - Nicoleta Serban
-  - Sercan O. Arik
-  - Mike Dusenberry
-  - Arkady Epshteyn
-  - Elli Kanal
-  - Long T. Le
-  - Chun-Liang Li
-  - Tomas Pfister
-  - Dario Sava
-  - Rajarishi Sinha
-  - Thomas Tsai
-  - Nate Yoder
-  - Jinsung Yoon
-  - Leyou Zhang
-  - Sam Abbott
-  - Nikos I. Bosse
-  - Sebastian Funk
-  - Joel Hellewell
-  - Sophie R. Meakin
-  - Katharine Sherratt
-  - Mingyuan Zhou
-  - Rahi Kalantari
-  - Teresa K. Yamana
-  - Sen Pei
-  - Jeffrey Shaman
-  - Michael L. Li
-  - Dimitris Bertsimas
-  - Omar Skali Lami
-  - Saksham Soni
-  - Hamza Tazi Bouardi
-  - Turgay Ayer
-  - Madeline Adee
-  - Jagpreet Chhatwal
-  - Ozden O. Dalgic
-  - Mary A. Ladd
-  - Benjamin P. Linas
-  - Peter Mueller
-  - Jade Xiao
-  - Yuanjia Wang
-  - Qinxia Wang
-  - Shanghong Xie
-  - Donglin Zeng
-  - Alden Green
-  - Jacob Bien
-  - Logan Brooks
-  - Addison J. Hu
-  - Maria Jahja
-  - Daniel McDonald
-  - Balasubramanian Narasimhan
-  - Collin Politsch
-  - Samyak Rajanala
-  - Aaron Rumack
-  - Noah Simon
-  - Ryan J. Tibshirani
-  - Rob Tibshirani
-  - Valerie Ventura
-  - Larry Wasserman
-  - "Eamon B. O\u2019Dea"
-  - John M. Drake
-  - Robert Pagano
-  - Quoc T. Tran
-  - Lam Si Tung Ho
-  - Huong Huynh
-  - Jo W. Walker
-  - Rachel B. Slayton
-  - Michael A. Johansson
-  - Matthew Biggerstaff
-  - Nicholas G. Reich
-  publisher: medRxiv
-  date: '2021-12-10'
-  link: https://doi.org/gs4m2v
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.11.04.21265886
-  title: The United States COVID-19 Forecast Hub dataset
-  authors:
-  - Estee Y Cramer
-  - Yuxin Huang
-  - Yijin Wang
-  - Evan L Ray
-  - Matthew Cornell
-  - Johannes Bracher
-  - Andrea Brennen
-  - Alvaro J Castero Rivadeneira
-  - Aaron Gerding
-  - Katie House
-  - Dasuni Jayawardena
-  - Abdul H Kanji
-  - Ayush Khandelwal
-  - Khoa Le
-  - Jarad Niemi
-  - Ariane Stark
-  - Apurv Shah
-  - Nutcha Wattanchit
-  - Martha W Zorn
-  - Nicholas G Reich
+  - Ben J. Brintz
+  - Josh M. Colston
+  - Sharia M. Ahmed
+  - Dennis L. Chao
+  - Ben Zaitschik
+  - Daniel T. Leung
   publisher: Cold Spring Harbor Laboratory
-  date: '2021-11-04'
-  link: https://doi.org/gs4m24
-  orcid: 0000-0002-8526-3007
+  date: '2023-10-13'
+  link: https://doi.org/gs4qz8
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20411/pai.v8i1.606
+  title: Genomic Characterization of  2 Cutibacterium acnes Isolates  from a Surgical
+    Site Infection  Reveals Large Genomic Inversion
+  authors:
+  - D. Garrett Brown
+  - Taylor A. Wahlig
+  - Angela Ma
+  - Laura K. Certain
+  - Peter N. Chalmers
+  - Mark A. Fisher
+  - Daniel T Leung
+  publisher: Pathogens and Immunity
+  date: '2023-10-05'
+  link: https://doi.org/gs4qz9
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.09.28.23296313
+  title: 'Drivers of inappropriate use of antimicrobials in South Asia: A systematic
+    review of qualitative literature'
+  authors:
+  - Jennifer L. Murray
+  - Daniel T. Leung
+  - Olivia R. Hanson
+  - Sharia M. Ahmed
+  - Andrew T. Pavia
+  - Ashraful I. Khan
+  - Julia E. Szymczak
+  - Valerie M. Vaughn
+  - Payal K. Patel
+  - Debashish Biswas
+  - Melissa H. Watt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-09-29'
+  link: https://doi.org/gs4q2b
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgph.0002216
+  title: Derivation and validation of a clinical prediction model for risk-stratification
+    of children hospitalized with severe pneumonia in Bangladesh
+  authors:
+  - Gazi Md. Salahuddin Mamun
+  - Michael Zou
+  - Monira Sarmin
+  - Ben J. Brintz
+  - Abu Sayem Mirza Md. Hasibur Rahman
+  - Irin Parvin
+  - Mst Mahmuda Ackhter
+  - Mohammod Jobayer Chisti
+  - Daniel T. Leung
+  - Lubaba Shahrin
+  publisher: PLOS Global Public Health
+  date: '2023-08-01'
+  link: https://doi.org/gs4q2c
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vaccine.2023.06.052
+  title: Development of Shigella conjugate vaccines targeting Shigella flexneri 2a
+    and S. flexneri 3a using a simple platform-approach conjugation by squaric acid
+    chemistry
+  authors:
+  - Meagan Kelly
+  - Anjali Mandlik
+  - Richelle C. Charles
+  - Smriti Verma
+  - Stephen B. Calderwood
+  - Daniel T. Leung
+  - Rajib Biswas
+  - Kamrul Islam
+  - Mohammad Kamruzzaman
+  - Fahima Chowdhury
+  - Farhana Khanam
+  - Willie F. Vann
+  - Ashraful Islam Khan
+  - Taufiqur Rahman Bhuiyan
+  - Firdausi Qadri
+  - Anthony R. Vortherms
+  - Robert Kaminski
+  - "Pavol Kov\xE1\u010D"
+  - Peng Xu
+  - Edward T. Ryan
+  publisher: Vaccine
+  date: '2023-07-01'
+  link: https://doi.org/gs4q2d
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/taad028
+  title: Development of a prediction model for the acquisition of extended spectrum
+    beta-lactam-resistant organisms in U.S. international travellers
+  authors:
+  - David Garrett Brown
+  - Colin J Worby
+  - Melissa A Pender
+  - Ben J Brintz
+  - Edward T Ryan
+  - Sushmita Sridhar
+  - Elizabeth Oliver
+  - Jason B Harris
+  - Sarah E Turbett
+  - Sowmya R Rao
+  - Ashlee M Earl
+  - Regina C LaRocque
+  - Daniel T Leung
+  publisher: Journal of Travel Medicine
+  date: '2023-03-02'
+  link: https://doi.org/gs4q2f
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.82626
+  title: Targeted multi-omic analysis of human skin tissue identifies alterations
+    of conventional and unconventional T cells associated with burn injury
+  authors:
+  - Daniel R Labuz
+  - Giavonni Lewis
+  - Irma D Fleming
+  - Callie M Thompson
+  - Yan Zhai
+  - Matthew A Firpo
+  - Daniel T Leung
+  publisher: eLife
+  date: '2023-02-15'
+  link: https://doi.org/gs4q2g
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.78491
+  title: Derivation and external validation of clinical prediction rules identifying
+    children at risk of linear growth faltering
+  authors:
+  - Sharia M Ahmed
+  - Ben J Brintz
+  - Patricia B Pavlinac
+  - Lubaba Shahrin
+  - Sayeeda Huq
+  - Adam C Levine
+  - Eric J Nelson
+  - James A Platts-Mills
+  - Karen L Kotloff
+  - Daniel T Leung
+  publisher: eLife
+  date: '2023-01-06'
+  link: https://doi.org/gs4q2h
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/immunohorizons.2200082
+  title: Enhancing Mucosal-Associated Invariant T Cell Function and Expansion with
+    Human Selective Serum
+  authors:
+  - Daniel Labuz
+  - Jackson Cacioppo
+  - Kelin Li
+  - "Jeffrey Aub\xE9"
+  - Daniel T. Leung
+  publisher: ImmunoHorizons
+  date: '2023-01-01'
+  link: https://doi.org/gs4q2j
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.19.22283701
+  title: Clinical prediction rule to guide diagnostic testing for<i>Shigellosis</i>and
+    improve antibiotic stewardship for pediatric diarrhea
+  authors:
+  - Sharia M. Ahmed
+  - Ben J. Brintz
+  - Patricia B. Pavlinac
+  - Md Iqbal Hossain
+  - Ashraful Islam Khan
+  - James A. Platts-Mills
+  - Karen L. Kotloff
+  - Daniel T. Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-20'
+  link: https://doi.org/gs4q2k
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.10.511368
+  title: Enhancing Mucosal-Associated Invariant T (MAIT) cell function and expansion
+    with human selective serum
+  authors:
+  - Daniel Labuz
+  - Jackson Cacioppo
+  - Kelin Li
+  - "Jeffrey Aub\xE9"
+  - Daniel T. Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-13'
+  link: https://doi.org/gs4q2m
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.04.22280651
+  title: Mucosal-associated invariant T (MAIT) cell responses in <i>Salmonella enterica</i>
+    serovar Typhi strain Ty21a oral vaccine recipients
+  authors:
+  - Shubhanshi Trivedi
+  - Olivia Cheng
+  - Ben J Brintz
+  - Richelle C. Charles
+  - Daniel T Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-05'
+  link: https://doi.org/gs4q2n
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20411/pai.v7i1.541
+  title: 'Erratum to: Use of a MAIT Activating Ligand, 5-OP-RU, as a Mucosal Adjuvant
+    in a Murine Model of Vibrio cholerae O1 Vaccination'
+  authors:
+  - Owen Jensen
+  - Shubhanshi Trivedi
+  - Jackson G. Cacioppo
+  - Kelin Li
+  - "Jeffrey Aub\xE9"
+  - J. Scott Hale
+  - Edward T. Ryan
+  - Daniel T Leung
+  publisher: Pathogens and Immunity
+  date: '2022-09-13'
+  link: https://doi.org/gs4q2p
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.08.30.505800
+  title: Targeted multi-omic analysis of human skin tissue identifies alterations
+    of conventional and unconventional T cells associated with burn injury
+  authors:
+  - Daniel Labuz
+  - Giavonni Lewis
+  - Irma D. Fleming
+  - Callie M. Thompson
+  - Yan Zhai
+  - Matthew A. Firpo
+  - Daniel T. Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-09-01'
+  link: https://doi.org/gs4q2q
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20411/pai.v7i1.525
+  title: Use of a MAIT Activating Ligand, 5-OP-RU, as a Mucosal Adjuvant in a Murine
+    Model of Vibrio cholerae O1 Vaccination
+  authors:
+  - Owen Jensen
+  - Shubhanshi Trivedi
+  - Kelin Li
+  - "Jeffrey Aub\xE9"
+  - J. Scott Hale
+  - Edward T. Ryan
+  - Daniel T Leung
+  publisher: Pathogens and Immunity
+  date: '2022-08-24'
+  link: https://doi.org/gsxxd4
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.06.17.496603
+  title: Use of a MAIT activating ligand, 5-OP-RU, as a mucosal adjuvant in a murine
+    model of <i>Vibrio cholerae</i> O1 vaccination
+  authors:
+  - Owen Jensen
+  - Shubhanshi Trivedi
+  - Kelin Li
+  - "Jeffrey Aub\xE9"
+  - J. Scott Hale
+  - Edward T. Ryan
+  - Daniel T. Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-17'
+  link: https://doi.org/gs4q2r
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.03.08.22271796
+  title: Derivation and external validation of clinical prediction rules identifying
+    children at risk of linear growth faltering (stunting) presenting for diarrheal
+    care
+  authors:
+  - Sharia M. Ahmed
+  - Ben J. Brintz
+  - Patricia B Pavlinac
+  - Lubaba Shahrin
+  - Sayeeda Huq
+  - Adam C. Levine
+  - Eric J. Nelson
+  - James A Platts-Mills
+  - Karen L Kotloff
+  - Daniel T Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-10'
+  link: https://doi.org/gs4q2s
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/taac012
+  title: Weather variables as important clinical predictors of bacterial diarrhoea
+    among international travellers
+  authors:
+  - Melissa A Pender
+  - Timothy Smith
+  - Ben J Brintz
+  - Prativa Pandey
+  - Sanjaya K Shrestha
+  - Sinn Anuras
+  - Samandra Demons
+  - Siriporn Sornsakrin
+  - Ladaporn Bodhidatta
+  - James A Platts-Mills
+  - Daniel T Leung
+  publisher: Journal of Travel Medicine
+  date: '2022-02-03'
+  link: https://doi.org/gs4q2t
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciimmunol.abe8931
+  title: A subset of follicular helper-like MAIT cells can provide B cell help and
+    support antibody production in the mucosa
+  authors:
+  - Owen Jensen
+  - Shubhanshi Trivedi
+  - Jeremy D. Meier
+  - Keke C. Fairfax
+  - J. Scott Hale
+  - Daniel T. Leung
+  publisher: Science Immunology
+  date: '2022-01-14'
+  link: https://doi.org/grdqz3
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0950268821002764
+  title: Combining antibody markers for serosurveillance of SARS-CoV-2 to estimate
+    seroprevalence and time-since-infection
+  authors:
+  - Md S. Bhuiyan
+  - Ben J. Brintz
+  - Alana L. Whitcombe
+  - Alena J. Markmann
+  - Luther A. Bartelt
+  - Nicole J. Moreland
+  - Andrew S. Azman
+  - Daniel T. Leung
+  publisher: Epidemiology and Infection
+  date: '2022-01-01'
+  link: https://doi.org/gs4q2v
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cid/ciab177
+  title: 'The Effects of Using a Clinical Prediction Rule to Prioritize Diagnostic
+    Testing on Transmission and Hospital Burden: A Modeling Example of Early Severe
+    Acute Respiratory Syndrome Coronavirus 2'
+  authors:
+  - Jody R Reimer
+  - Sharia M Ahmed
+  - Ben J Brintz
+  - Rashmee U Shah
+  - Lindsay T Keegan
+  - Matthew J Ferrari
+  - Daniel T Leung
+  publisher: Clinical Infectious Diseases
+  date: '2021-02-23'
+  link: https://doi.org/gs4m23
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.09.06.21261175
+  title: Combining antibody markers for serosurveillance of SARS-CoV-2 to estimate
+    seroprevalence and time-since-infection
+  authors:
+  - Md S. Bhuiyan
+  - Ben J. Brintz
+  - Alana L. Whitcombe
+  - Alena J. Markmann
+  - Luther A. Bartelt
+  - Nicole J. Moreland
+  - Andrew S. Azman
+  - Daniel T. Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-09-08'
+  link: https://doi.org/gs4q2w
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.08.26.21262699
+  title: Prediction of vaccine efficacy of the Delta variant
+  authors:
+  - Xinhua Chen
+  - Andrew S. Azman
+  - Wanying Lu
+  - Ruijia Sun
+  - Nan Zheng
+  - Shijia Ge
+  - Xiaowei Deng
+  - Juan Yang
+  - Daniel T. Leung
+  - Hongjie Yu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-08-31'
+  link: https://doi.org/gs4q2x
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.21-0136
+  title: A Novel Luminescence-Based Serum Bactericidal Assay for Vibrio cholerae Reduces
+    Assay Variation, Is Time- and Cost-Effective, and Directly Measures Continuous
+    Titer Values
+  authors:
+  - Taylor A. Wahlig
+  - Ben J. Brintz
+  - Melanie Prettyman
+  - Andrew S. Azman
+  - Daniel T. Leung
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2021-09-15'
+  link: https://doi.org/gs4q2z
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cid/ciab646
+  title: 'Neutralizing Antibodies Against Severe Acute Respiratory Syndrome Coronavirus
+    2 (SARS-CoV-2) Variants Induced by Natural Infection or Vaccination: A Systematic
+    Review and Pooled Analysis'
+  authors:
+  - Xinhua Chen
+  - Zhiyuan Chen
+  - Andrew S Azman
+  - Ruijia Sun
+  - Wanying Lu
+  - Nan Zheng
+  - Jiaxin Zhou
+  - Qianhui Wu
+  - Xiaowei Deng
+  - Zeyao Zhao
+  - Xinghui Chen
+  - Shijia Ge
+  - Juan Yang
+  - Daniel T Leung
+  - Hongjie Yu
+  publisher: Clinical Infectious Diseases
+  date: '2021-07-24'
+  link: https://doi.org/gmdht2
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/ofid/ofab237
+  title: Intestinal Infection Is Associated With Impaired Lung Innate Immunity to
+    Secondary Respiratory Infection
+  authors:
+  - Shubhanshi Trivedi
+  - Allie H Grossmann
+  - Owen Jensen
+  - Mark J Cody
+  - Taylor A Wahlig
+  - Paula Hayakawa Serpa
+  - Charles Langelier
+  - Kristi J Warren
+  - Christian C Yost
+  - Daniel T Leung
+  publisher: Open Forum Infectious Diseases
+  date: '2021-05-07'
+  link: https://doi.org/gs4q22
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/immunohorizons.2100026
+  title: Diverse Mucosal-Associated Invariant TCR Usage in HIV Infection
+  authors:
+  - Shubhanshi Trivedi
+  - Taliman Afroz
+  - Michael S. Bennett
+  - Kendal Angell
+  - Fabio Barros
+  - Racheal A. Nell
+  - Jian Ying
+  - Adam M. Spivak
+  - Daniel T. Leung
+  publisher: ImmunoHorizons
+  date: '2021-05-01'
+  link: https://doi.org/gs4q24
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tmi.13584
+  title: "Genotypic and phenotypic profiles of antibiotic\u2010resistant bacteria\
+    \ isolated from hospitalised patients in Bangladesh"
+  authors:
+  - Kazi Sarjana Safain
+  - Golam Sarower Bhuyan
+  - Saad Hassan Hasib
+  - Mohammad Sazzadul Islam
+  - "Mohammad Al Mahmud\u2010Un\u2010Nabi"
+  - Rosy Sultana
+  - Sadia Tasnim
+  - Farjana Akther Noor
+  - Suprovath Kumar Sarker
+  - Md Tarikul Islam
+  - Asifuzzaman Rahat
+  - Daniel T. Leung
+  - Daryl Domman
+  - Farhana Manzoor
+  - Sajid Anwar
+  - Md Abdul Majid Bhuiyan
+  - Emran Kabir Chowdhury
+  - Syed Saleheen Qadri
+  - Firdausi Qadri
+  - Kaiissar Mannoor
+  publisher: Tropical Medicine &amp; International Health
+  date: '2021-05-02'
+  link: https://doi.org/gs4q25
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s41182-021-00327-x
+  title: 'Multidrug-resistant enteric pathogens in older children and adults with
+    diarrhea in Bangladesh: epidemiology and risk factors'
+  authors:
+  - Stephanie C. Garbern
+  - Tzu-Chun Chu
+  - Monique Gainey
+  - Samika S. Kanekar
+  - Sabiha Nasrin
+  - Kexin Qu
+  - Meagan A. Barry
+  - Eric J. Nelson
+  - Daniel T. Leung
+  - Christopher H. Schmid
+  - Nur H. Alam
+  - Adam C. Levine
+  publisher: Tropical Medicine and Health
+  date: '2021-05-10'
+  link: https://doi.org/gs4q26
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0250446
+  title: An assessment of potential biomarkers of environment enteropathy and its
+    association with age and microbial infections among children in Bangladesh
+  authors:
+  - Muhammad Ikhtear Uddin
+  - Motaher Hossain
+  - Shahidul Islam
+  - Aklima Akter
+  - Naoshin Sharmin Nishat
+  - Tasnin Akter Nila
+  - Tanzeem Ahmed Rafique
+  - Daniel T. Leung
+  - Stephen B. Calderwood
+  - Edward T. Ryan
+  - Jason B. Harris
+  - Regina C. LaRocque
+  - Taufiqur Rahman Bhuiyan
+  - Firdausi Qadri
+  publisher: PLOS ONE
+  date: '2021-04-22'
+  link: https://doi.org/gnnrd5
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijid.2021.02.102
+  title: Clinical and socio-environmental determinants of multidrug-resistant vibrio
+    cholerae 01 in older children and adults in Bangladesh
+  authors:
+  - Stephanie C. Garbern
+  - Tzu-Chun Chu
+  - Phillip Yang
+  - Monique Gainey
+  - Sabiha Nasrin
+  - Samika Kanekar
+  - Kexin Qu
+  - Eric J. Nelson
+  - Daniel T. Leung
+  - Dilruba Ahmed
+  - Christopher H. Schmid
+  - Nur H. Alam
+  - Adam C. Levine
+  publisher: International Journal of Infectious Diseases
+  date: '2021-04-01'
+  link: https://doi.org/gs4q28
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s2214-109x(21)00026-7
+  title: 'Serological evidence of human infection with SARS-CoV-2: a systematic review
+    and meta-analysis'
+  authors:
+  - Xinhua Chen
+  - Zhiyuan Chen
+  - Andrew S Azman
+  - Xiaowei Deng
+  - Ruijia Sun
+  - Zeyao Zhao
+  - Nan Zheng
+  - Xinghui Chen
+  - Wanying Lu
+  - Tingyu Zhuang
+  - Juan Yang
+  - Cecile Viboud
+  - Marco Ajelli
+  - Daniel T Leung
+  - Hongjie Yu
+  publisher: The Lancet Global Health
+  date: '2021-05-01'
+  link: https://doi.org/gh7599
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/elife.63009
+  title: A modular approach to integrating multiple data sources into real-time clinical
+    prediction for pediatric diarrhea
+  authors:
+  - Ben J Brintz
+  - Benjamin Haaland
+  - Joel Howard
+  - Dennis L Chao
+  - Joshua L Proctor
+  - Ashraful I Khan
+  - Sharia M Ahmed
+  - Lindsay T Keegan
+  - Tom Greene
+  - Adama Mamby Keita
+  - Karen L Kotloff
+  - James A Platts-Mills
+  - Eric J Nelson
+  - Adam C Levine
+  - Andrew T Pavia
+  - Daniel T Leung
+  publisher: eLife
+  date: '2021-02-02'
+  link: https://doi.org/gs4m2m
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0033354920988612
+  title: 'Robust Testing in Outpatient Settings to Explore COVID-19 Epidemiology:
+    Disparities in Race/Ethnicity and Age, Salt Lake County, Utah, 2020'
+  authors:
+  - Sharia M. Ahmed
+  - Rashmee U. Shah
+  - Valerie Fernandez
+  - Sara Grineski
+  - Benjamin Brintz
+  - Matthew H. Samore
+  - Matthew J. Ferrari
+  - Daniel T. Leung
+  - Lindsay T. Keegan
+  publisher: Public Health Reports
+  date: '2021-02-04'
+  link: https://doi.org/gs4m2z
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14814/phy2.14761
+  title: "SARS\u2010CoV\u20102 innate effector associations and viral load in early\
+    \ nasopharyngeal infection"
+  authors:
+  - Theodore G. Liou
+  - Frederick R. Adler
+  - Barbara C. Cahill
+  - David R. Cox
+  - James E. Cox
+  - Garett J. Grant
+  - Kimberly E. Hanson
+  - Stephen C. Hartsell
+  - Nathan D. Hatton
+  - My N. Helms
+  - Judy L. Jensen
+  - Christiana Kartsonaki
+  - Yanping Li
+  - Daniel T. Leung
+  - James E. Marvin
+  - Elizabeth A. Middleton
+  - "Sandra M. Osburn\u2010Staker"
+  - Kristyn A. Packer
+  - Salika M. Shakir
+  - Anne B. Sturrock
+  - Keith D. Tardif
+  - Kristi J. Warren
+  - Lindsey J. Waddoups
+  - Lisa J. Weaver
+  - Elizabeth Zimmerman
+  - Robert Paine
+  publisher: Physiological Reports
+  date: '2021-02-01'
+  link: https://doi.org/gs4q29
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/ofid/ofaa543
+  title: Acquisition and Long-term Carriage of Multidrug-Resistant Organisms in US
+    International Travelers
+  authors:
+  - Colin J Worby
+  - Ashlee M Earl
+  - Sarah E Turbett
+  - Margaret Becker
+  - Sowmya R Rao
+  - Elizabeth Oliver
+  - Allison Taylor Walker
+  - Maroya Walters
+  - Paul Kelly
+  - Daniel T Leung
+  - Mark Knouse
+  - Stefan H F Hagmann
+  - Edward T Ryan
+  - Regina C LaRocque
+  publisher: Open Forum Infectious Diseases
+  date: '2020-12-01'
+  link: https://doi.org/gntts4
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s2666-5247(20)30141-5
+  title: 'Vibrio cholerae O1 transmission in Bangladesh: insights from a nationally
+    representative serosurvey'
+  authors:
+  - Andrew S Azman
+  - Stephen A Lauer
+  - Taufiqur Rahman Bhuiyan
+  - Francisco J Luquero
+  - Daniel T Leung
+  - Sonia T Hegde
+  - Jason B Harris
+  - Kishor Kumar Paul
+  - Fatema Khaton
+  - Jannatul Ferdous
+  - Justin Lessler
+  - Henrik Salje
+  - Firdausi Qadri
+  - Emily S Gurley
+  publisher: The Lancet Microbe
+  date: '2020-12-01'
+  link: https://doi.org/gs4q3b
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.30.20223545
+  title: SARS-CoV-2 Innate Effector Associations and Viral Load in Early Nasopharyngeal
+    Infection
+  authors:
+  - Theodore G Liou
+  - Frederick R Adler
+  - Barbara C Cahill
+  - David R Cox
+  - James E Cox
+  - Garett J Grant
+  - Kimberly E Hanson
+  - Stephen C Hartsell
+  - Nathan D Hatton
+  - My N Helms
+  - Judy L Jensen
+  - Christiana Kartsonaki
+  - Yanping Li
+  - Daniel T Leung
+  - James E Marvin
+  - Elizabeth A Middleton
+  - Sandra M Osburn-Staker
+  - Kristyn A Packer
+  - Salika M Shakir
+  - Anne B Sturrock
+  - Keith D Tardif
+  - Kristi Jo Warren
+  - Lindsey J Waddoups
+  - Lisa J Weaver
+  - Elizabeth Zimmerman
+  - Robert Paine
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-11-04'
+  link: https://doi.org/gs4q3c
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/taaa010
+  title: 'Traveller exposures to animals: a GeoSentinel analysis'
+  authors:
+  - Michael P Muehlenbein
+  - Kristina M Angelo
+  - Patricia Schlagenhauf
+  - Lin Chen
+  - Martin P Grobusch
+  - Philippe Gautret
+  - Alexandre Duvignaud
+  - "Fran\xE7ois Chappuis"
+  - Kevin C Kain
+  - Emmanuel Bottieau
+  - "Lo\xEFc Epelboin"
+  - Marc Shaw
+  - Noreen Hynes
+  - Davidson H Hamer
+  publisher: Journal of Travel Medicine
+  date: '2020-01-28'
+  link: https://doi.org/gh9jwb
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/AAC.01084-20
+  title: 'Epidemiological and Clinical Characteristics of International Travelers
+    with Enteric Fever and Antibiotic Resistance Profiles of Their Isolates: a GeoSentinel
+    Analysis'
+  authors:
+  - Stefan H. F. Hagmann
+  - Kristina M. Angelo
+  - Ralph Huits
+  - Katherine Plewes
+  - Gilles Eperon
+  - Martin P. Grobusch
+  - Anne McCarthy
+  - Michael Libman
+  - Eric Caumes
+  - Daniel T. Leung
+  - Hilmir Asgeirsson
+  - Mogens Jensenius
+  - Eli Schwartz
+  - "Adrian S\xE1nchez-Montalv\xE1"
+  - Paul Kelly
+  - Prativa Pandey
+  - Karin Leder
+  - Daniel L. Bourque
+  - Yukihiro Yoshimura
+  - Frank P. Mockenhaupt
+  - Perry J. J. van Genderen
+  - Silvia Odolini
+  - Patricia Schlagenhauf
+  - Bradley A. Connor
+  - Davidson H. Hamer
+  publisher: Antimicrobial Agents and Chemotherapy
+  date: '2020-10-20'
+  link: https://doi.org/gh9g98
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.05.326488
+  title: A novel subset of follicular helper-like MAIT cells has capacity for B cell
+    help and antibody production in the mucosa
+  authors:
+  - Owen Jensen
+  - Shubhanshi Trivedi
+  - Jeremy D. Meier
+  - Keke Fairfax
+  - J. Scott Hale
+  - Daniel T. Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-05'
+  link: https://doi.org/gs4q3x
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.10.26.20210385
@@ -387,304 +904,90 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-10-27'
   link: https://doi.org/gs4m27
-  orcid: 0000-0002-8526-3007
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41598-021-86811-0
-  title: A scenario modeling pipeline for COVID-19 emergency planning
+- id: doi:10.1101/2020.10.08.332551
+  title: Humans surviving cholera develop antibodies against <i>Vibrio cholerae</i>
+    O-specific polysaccharide that inhibit pathogen motility
   authors:
-  - Joseph C. Lemaitre
-  - Kyra H. Grantz
-  - Joshua Kaminsky
-  - Hannah R. Meredith
-  - Shaun A. Truelove
-  - Stephen A. Lauer
-  - Lindsay T. Keegan
-  - Sam Shah
-  - Josh Wills
-  - Kathryn Kaminsky
-  - Javier Perez-Saez
-  - Justin Lessler
-  - Elizabeth C. Lee
-  publisher: Scientific Reports
-  date: '2021-04-06'
-  link: https://doi.org/gs4m2p
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1001/jamanetworkopen.2021.40906
-  title: Analysis of Vaccine Effectiveness Against COVID-19 and the Emergence of Delta
-    and Other Variants of Concern in Utah
-  authors:
-  - Lindsay T. Keegan
-  - Shaun Truelove
-  - Justin Lessler
-  publisher: JAMA Network Open
-  date: '2021-12-23'
-  link: https://doi.org/gs4m2q
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1001/jamanetworkopen.2021.0971
-  title: Association Between Contact Precautions and Transmission of Methicillin-Resistant
-    <i>Staphylococcus aureus</i> in Veterans Affairs Hospitals
-  authors:
-  - Karim Khader
-  - Alun Thomas
-  - Vanessa Stevens
-  - Lindsay Visnovsky
-  - McKenna Nevers
-  - Damon Toth
-  - Lindsay T. Keegan
-  - Makoto Jones
-  - Michael Rubin
-  - Matthew H. Samore
-  publisher: JAMA Network Open
-  date: '2021-03-15'
-  link: https://doi.org/gmx7wd
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.06.03.21258248
-  title: Comparison of antigen- and RT-PCR-based testing strategies for detection
-    of Sars-Cov-2 in two high-exposure settings
-  authors:
-  - Jay Love
-  - Megan T. Wimmer
-  - Damon J.A. Toth
-  - Arthi Chandran
-  - Dilip Makhija
-  - Charles K. Cooper
-  - Matthew H. Samore
-  - Lindsay T. Keegan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-06-06'
-  link: https://doi.org/gk7cxb
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.01.06.21249339
-  title: Continued need for non-pharmaceutical interventions after COVID-19 vaccination
-    in long-term-care facilities
-  authors:
-  - Jay Love
-  - Lindsay T. Keegan
-  - Frederick J. Angulo
-  - John McLaughlin
-  - Kimberly M. Shea
-  - David L. Swerdlow
-  - Matthew H. Samore
-  - Damon J.A. Toth
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-01-06'
-  link: https://doi.org/gs4m2s
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3201/eid2705.203075
-  title: Coordinated Strategy for a Model-Based Decision Support Tool for Coronavirus
-    Disease, Utah, USA
-  authors:
-  - Hannah R. Meredith
-  - Emerson Arehart
-  - Kyra H. Grantz
-  - Alexander Beams
-  - Theresa Sheets
-  - Richard Nelson
-  - Yue Zhang
-  - Russell G. Vinik
-  - Darryl Barfuss
-  - Jacob C. Pettit
-  - Keegan McCaffrey
-  - Angela C. Dunn
-  - Michael Good
-  - Shannon Frattaroli
-  - Matthew H. Samore
-  - Justin Lessler
-  - Elizabeth C. Lee
-  - Lindsay T. Keegan
-  publisher: Emerging Infectious Diseases
-  date: '2021-05-01'
-  link: https://doi.org/gs4m2t
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/cid/ciaa1603
-  title: Effectiveness of Contact Precautions to Prevent Transmission of Methicillin-Resistant
-    <i>Staphylococcus aureus</i> and Vancomycin-Resistant Enterococci in Intensive
-    Care Units
-  authors:
-  - Karim Khader
-  - Alun Thomas
-  - W Charles Huskins
-  - Vanessa Stevens
-  - Lindsay T Keegan
-  - Lindsay Visnovsky
-  - Matthew H Samore
-  publisher: Clinical Infectious Diseases
-  date: '2021-01-15'
-  link: https://doi.org/gnskcb
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0259097
-  title: High variability in transmission of SARS-CoV-2 within households and implications
-    for control
-  authors:
-  - Damon J. A. Toth
-  - Alexander B. Beams
-  - Lindsay T. Keegan
-  - Yue Zhang
-  - Tom Greene
-  - Brian Orleans
-  - Nathan Seegert
-  - Adam Looney
-  - Stephen C. Alder
-  - Matthew H. Samore
-  publisher: PLOS ONE
-  date: '2021-11-10'
-  link: https://doi.org/gs4m2w
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.15585/mmwr.mm7019e3
-  title: "Modeling of Future COVID-19 Cases, Hospitalizations, and Deaths, by Vaccination\
-    \ Rates and Nonpharmaceutical Intervention Scenarios \u2014 United States, April\u2013\
-    September 2021"
-  authors:
-  - Rebecca K. Borchering
-  - "C\xE9cile Viboud"
-  - Emily Howerton
-  - Claire P. Smith
-  - Shaun Truelove
-  - Michael C. Runge
-  - Nicholas G. Reich
-  - Lucie Contamin
-  - John Levander
-  - Jessica Salerno
-  - Wilbert van Panhuis
-  - Matt Kinsey
-  - Kate Tallaksen
-  - R. Freddy Obrecht
-  - Laura Asher
-  - Cash Costello
-  - Michael Kelbaugh
-  - Shelby Wilson
-  - Lauren Shin
-  - Molly E. Gallagher
-  - Luke C. Mullany
-  - Kaitlin Rainwater-Lovett
-  - Joseph C. Lemaitre
-  - Juan Dent
-  - Kyra H. Grantz
-  - Joshua Kaminsky
-  - Stephen A. Lauer
-  - Elizabeth C. Lee
-  - Hannah R. Meredith
-  - Javier Perez-Saez
-  - Lindsay T. Keegan
-  - Dean Karlen
-  - Matteo Chinazzi
-  - Jessica T. Davis
-  - Kunpeng Mu
-  - Xinyue Xiong
-  - Ana Pastore y Piontti
-  - Alessandro Vespignani
-  - Ajitesh Srivastava
-  - Przemyslaw Porebski
-  - Srinivasan Venkatramanan
-  - Aniruddha Adiga
-  - Bryan Lewis
-  - Brian Klahn
-  - Joseph Outten
-  - James Schlitt
-  - Patrick Corbett
-  - Pyrros Alexander Telionis
-  - Lijing Wang
-  - Akhil Sai Peddireddy
-  - Benjamin Hurt
-  - Jiangzhuo Chen
-  - Anil Vullikanti
-  - Madhav Marathe
-  - Jessica M. Healy
-  - Rachel B. Slayton
-  - Matthew Biggerstaff
-  - Michael A. Johansson
-  - Katriona Shea
-  - Justin Lessler
-  publisher: MMWR. Morbidity and Mortality Weekly Report
-  date: '2021-05-14'
-  link: https://doi.org/gmbzh3
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1097/QCO.0000000000000742
-  title: Modeling transmission of pathogens in healthcare settings
-  authors:
-  - Anna Stachel
-  - Lindsay T. Keegan
-  - Seth Blumberg
-  publisher: Current Opinion in Infectious Diseases
-  date: '2021-05-25'
-  link: https://doi.org/gj8h6p
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1177/0033354920988612
-  title: 'Robust Testing in Outpatient Settings to Explore COVID-19 Epidemiology:
-    Disparities in Race/Ethnicity and Age, Salt Lake County, Utah, 2020'
-  authors:
-  - Sharia M. Ahmed
-  - Rashmee U. Shah
-  - Valerie Fernandez
-  - Sara Grineski
-  - Benjamin Brintz
-  - Matthew H. Samore
-  - Matthew J. Ferrari
+  - Richelle C. Charles
+  - Meagan Kelly
+  - Jenny M. Tam
+  - Aklima Akter
+  - Motaher Hossain
+  - Kamrul Islam
+  - Rajib Biswas
+  - Mohammad Kamruzzaman
+  - Fahima Chowdhury
+  - Ashraful I. Khan
   - Daniel T. Leung
-  - Lindsay T. Keegan
-  publisher: Public Health Reports
-  date: '2021-02-04'
-  link: https://doi.org/gs4m2z
-  orcid: 0000-0002-8526-3007
+  - Ana Weil
+  - Regina C. LaRocque
+  - Taufiqur Rahman Bhuiyan
+  - Atiqur Rahman
+  - Leslie M. Mayo-Smith
+  - Rachel L. Becker
+  - Jatin M. Vyas
+  - Christina S. Faherty
+  - Kourtney P. Nickerson
+  - Samantha Giffen
+  - Alaina S. Ritter
+  - Matthew K. Waldor
+  - Peng Xu
+  - "Pavol Kov\xE1\u010D"
+  - Stephen B. Calderwood
+  - Robert C. Kauffman
+  - Jens Wrammert
+  - Firdausi Qadri
+  - Jason B. Harris
+  - Edward T. Ryan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-09'
+  link: https://doi.org/gs4q34
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/cid/ciab177
-  title: 'The Effects of Using a Clinical Prediction Rule to Prioritize Diagnostic
-    Testing on Transmission and Hospital Burden: A Modeling Example of Early Severe
-    Acute Respiratory Syndrome Coronavirus 2'
+- id: doi:10.1101/2020.09.11.20192773
+  title: 'Serological evidence of human infection with SARS-CoV-2: a systematic review
+    and meta-analysis'
   authors:
-  - Jody R Reimer
-  - Sharia M Ahmed
-  - Ben J Brintz
-  - Rashmee U Shah
-  - Lindsay T Keegan
-  - Matthew J Ferrari
-  - Daniel T Leung
-  publisher: Clinical Infectious Diseases
-  date: '2021-02-23'
-  link: https://doi.org/gs4m23
-  orcid: 0000-0002-8526-3007
+  - Xinhua Chen
+  - Zhiyuan Chen
+  - Andrew S. Azman
+  - Xiaowei Deng
+  - Xinghui Chen
+  - Wanying Lu
+  - Zeyao Zhao
+  - Juan Yang
+  - Cecile Viboud
+  - Marco Ajelli
+  - Daniel T. Leung
+  - Hongjie Yu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-13'
+  link: https://doi.org/gs4q36
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/cid/ciaa1580
-  title: Transmission Dynamics of <i>Clostridioides difficile</i> in 2 High-Acuity
-    Hospital Units
+- id: doi:10.1101/2020.08.03.235457
+  title: Intestinal infection results in impaired lung innate immunity to secondary
+    respiratory infection
   authors:
-  - Karim Khader
-  - L Silvia Munoz-Price
-  - Ryan Hanson
-  - Vanessa Stevens
-  - Lindsay T Keegan
-  - Alun Thomas
-  - Liliana E Pezzin
-  - Ann Nattinger
-  - Siddhartha Singh
-  - Matthew H Samore
-  publisher: Clinical Infectious Diseases
-  date: '2021-01-15'
-  link: https://doi.org/grntk3
-  orcid: 0000-0002-8526-3007
+  - Shubhanshi Trivedi
+  - Allie H. Grossmann
+  - Owen Jensen
+  - Mark J. Cody
+  - Taylor A. Wahlig
+  - Paula Hayakawa Serpa
+  - Charles Langelier
+  - Kristi J. Warren
+  - Christian C. Yost
+  - Daniel T. Leung
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-04'
+  link: https://doi.org/gs4q37
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.07.07.20148510
@@ -701,224 +1004,2003 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-07-08'
   link: https://doi.org/gg5xbs
-  orcid: 0000-0002-8526-3007
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.06.12.20129551
-  title: 'Planning for the aftershocks: a model of post-acute care needs for hospitalized
-    COVID-19 patients'
+- id: doi:10.1101/2020.05.05.20092031
+  title: 'Comprehensive Testing Highlights Racial, Ethnic, and Age Disparities in
+    the COVID-19 Outbreak: Epidemiological and Clinical Characteristic of Cases in
+    Utah'
   authors:
-  - Matthew Maloney
-  - Ryan Morley
-  - Robert Checketts
-  - Peter Weir
-  - Darryl Barfuss
-  - Hannah R. Meredith
-  - Michelle G. Hofmann
+  - Sharia M Ahmed
+  - Rashmee U. Shah
+  - Margaret Bale
+  - Jordan B. Peacock
+  - Ben Berger
+  - Alyssa Brown
+  - Sara Mann
+  - William West
+  - Valerie Martin
+  - Valerie Fernandez
+  - Sara Grineski
+  - Benjamin Brintz
   - Matthew H. Samore
+  - Matthew J. Ferrari
+  - Daniel T. Leung
   - Lindsay T. Keegan
   publisher: Cold Spring Harbor Laboratory
-  date: '2020-06-13'
-  link: https://doi.org/gs4m25
-  orcid: 0000-0002-8526-3007
+  date: '2020-05-09'
+  link: https://doi.org/gk69tt
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.05.08.20095703
-  title: The real time effective reproductive number for COVID-19 in the United States
+- id: doi:10.1126/sciimmunol.abc6347
+  title: 'Serology for SARS-CoV-2: Apprehensions, opportunities, and the path forward'
   authors:
-  - Yue Zhang
-  - Lindsay T Keegan
-  - Qiu Yuqing
-  - Matthew H Samore
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-05-13'
-  link: https://doi.org/gs4m26
-  orcid: 0000-0002-8526-3007
+  - Juliet E. Bryant
+  - Andrew S. Azman
+  - Matthew J. Ferrari
+  - Benjamin F. Arnold
+  - Maciej F. Boni
+  - Yap Boum
+  - Kyla Hayford
+  - Francisco J. Luquero
+  - Michael J. Mina
+  - Isabel Rodriguez-Barraquer
+  - Joseph T. Wu
+  - Djibril Wade
+  - Guy Vernet
+  - Daniel T. Leung
+  publisher: Science Immunology
+  date: '2020-05-19'
+  link: https://doi.org/ggxdqf
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.08.19.20177493
-  title: Ensemble Forecasts of Coronavirus Disease 2019 (COVID-19) in the U.S.
+- id: doi:10.1056/nejmc1912464
+  title: Acquisition of Antibiotic-Resistant Bacteria by U.S. International Travelers
   authors:
-  - Evan L Ray
-  - Nutcha Wattanachit
-  - Jarad Niemi
-  - Abdul Hannan Kanji
-  - Katie House
-  - Estee Y Cramer
-  - Johannes Bracher
-  - Andrew Zheng
-  - Teresa K Yamana
-  - Xinyue Xiong
-  - Spencer Woody
-  - Yuanjia Wang
-  - Lily Wang
-  - Robert L Walraven
-  - Vishal Tomar
-  - Katharine Sherratt
-  - Daniel Sheldon
-  - Robert C Reiner
-  - B. Aditya Prakash
-  - Dave Osthus
-  - Michael Lingzhi Li
-  - Elizabeth C Lee
-  - Ugur Koyluoglu
-  - Pinar Keskinocak
-  - Youyang Gu
-  - Quanquan Gu
-  - Glover E. George
-  - "Guido Espa\xF1a"
-  - Sabrina Corsetti
-  - Jagpreet Chhatwal
-  - Sean Cavany
-  - Hannah Biegel
-  - Michal Ben-Nun
-  - Jo Walker
-  - Rachel Slayton
-  - Velma Lopez
-  - Matthew Biggerstaff
-  - Michael A Johansson
-  - Nicholas G Reich
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-08-22'
-  link: https://doi.org/gg9hz6
-  orcid: 0000-0002-8526-3007
+  - Guillaume Mellon
+  - Sarah E. Turbett
+  - Colin Worby
+  - Elizabeth Oliver
+  - A. Taylor Walker
+  - Maroya Walters
+  - Paul Kelly
+  - Daniel T. Leung
+  - Mark Knouse
+  - Stefan Hagmann
+  - Ashlee Earl
+  - Edward T. Ryan
+  - Regina C. LaRocque
+  publisher: New England Journal of Medicine
+  date: '2020-04-02'
+  link: https://doi.org/gnttsr
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.vaccine.2020.06.081
-  title: Modeling the potential impact of administering vaccines against Clostridioides
-    difficile infection to individuals in healthcare facilities
+- id: doi:10.1093/ofid/ofaa136
+  title: Sero-evaluation of Immune Responses to Vibrio cholerae in a Postelimination
+    Setting
   authors:
-  - Damon J.A. Toth
-  - Lindsay T. Keegan
-  - Matthew H. Samore
-  - Karim Khader
-  - Justin J. O'Hagan
-  - Holly Yu
-  - Alvaro Quintana
-  - David L. Swerdlow
-  publisher: Vaccine
-  date: '2020-08-01'
-  link: https://doi.org/gs4m29
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.11.25.20186056
-  title: Seasonal patterns of dengue incidence in Thailand across the urban-rural
-    gradient
-  authors:
-  - Qifang Bi
-  - Derek AT Cummings
-  - Nicholas G. Reich
-  - Lindsay T. Keegan
-  - Joshua Kaminsky
-  - Henrik Salje
-  - Hannah Clapham
-  - Pawinee Doung-ngern
-  - Sopon Iamsirithaworn
-  - Justin Lessler
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-11-27'
-  link: https://doi.org/gs4m3b
-  orcid: 0000-0002-8526-3007
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/cid/ciz808
-  title: 'Clinical and Epidemiological Aspects of Diphtheria: A Systematic Review
-    and Pooled Analysis'
-  authors:
-  - Shaun A Truelove
-  - Lindsay T Keegan
-  - William J Moss
-  - Lelia H Chaisson
-  - Emilie Macher
+  - Tai The Diep
+  - Owen Jensen
+  - Nguyen Van Thuong
+  - Nguyen Thi Ngoc Nhi
+  - Nguyen Ngoc Anh Thu
+  - Vo Ngoc Quang
+  - Truong Cong Hieu
+  - Hoang Anh Thang
+  - Nguyen Dieu Thuy
+  - Ho Vinh Thang
+  - Ho Trung Tuyen
+  - Le Dang Ngan
+  - Nguyen Thi Thanh Ha
+  - Than Duc Dung
+  - Cole P Anderson
   - Andrew S Azman
-  - Justin Lessler
-  publisher: Clinical Infectious Diseases
-  date: '2019-08-19'
-  link: https://doi.org/gm6s57
-  orcid: 0000-0002-8526-3007
+  - Daniel T Leung
+  publisher: Open Forum Infectious Diseases
+  date: '2020-04-21'
+  link: https://doi.org/gs4q38
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/451153
-  title: Perfect Counterfactuals for Epidemic Simulations
+- id: doi:10.1111/tmi.13484
+  title: "Clinical and laboratory predictors of 30\u2010day mortality in severe acute\
+    \ malnourished children with severe pneumonia"
   authors:
-  - Joshua Kaminsky
-  - Lindsay T. Keegan
-  - C. Jessica E. Metcalf
-  - Justin Lessler
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-10-26'
-  link: https://doi.org/gk2qhm
-  orcid: 0000-0002-8526-3007
+  - Lubaba Shahrin
+  - Mohammod J. Chisti
+  - Benjamin Brintz
+  - Zahidul Islam
+  - Abu S.M.S.B. Shahid
+  - Md. Zakiul Hassan
+  - Daniel T. Leung
+  - Fahmida Chowdhury
+  publisher: Tropical Medicine &amp; International Health
+  date: '2020-09-28'
+  link: https://doi.org/gs4q39
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1073/pnas.1714457115
-  title: "Prospective forecasts of annual dengue hemorrhagic fever incidence in Thailand,\
-    \ 2010\u20132014"
+- id: doi:10.1371/journal.pntd.0008677
+  title: Clinical predictors for etiology of acute diarrhea in children in resource-limited
+    settings
   authors:
-  - Stephen A. Lauer
-  - Krzysztof Sakrejda
-  - Evan L. Ray
-  - Lindsay T. Keegan
-  - Qifang Bi
-  - Paphanij Suangtho
-  - Soawapak Hinjoy
-  - Sopon Iamsirithaworn
-  - Suthanun Suthachana
-  - Yongjua Laosiritaworn
-  - Derek A.T. Cummings
-  - Justin Lessler
-  - Nicholas G. Reich
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2018-02-20'
-  link: https://doi.org/gc733m
-  orcid: 0000-0002-8526-3007
+  - Ben J. Brintz
+  - Joel I. Howard
+  - Benjamin Haaland
+  - James A. Platts-Mills
+  - Tom Greene
+  - Adam C. Levine
+  - Eric J. Nelson
+  - Andrew T. Pavia
+  - Karen L. Kotloff
+  - Daniel T. Leung
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2020-10-09'
+  link: https://doi.org/gs4q4b
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/infdis/jix437
-  title: 'Quantifying Zika: Advancing the Epidemiology of Zika With Quantitative Models'
+- id: doi:10.1001/jamanetworkopen.2020.17703
+  title: Comparison of <i>International Classification of Diseases and Related Health
+    Problems, Tenth Revision</i> Codes With Electronic Medical Records Among Patients
+    With Symptoms of Coronavirus Disease 2019
   authors:
-  - Lindsay T Keegan
+  - Brendan T. Crabb
+  - Ann Lyons
+  - Margaret Bale
+  - Valerie Martin
+  - Ben Berger
+  - Sara Mann
+  - William B. West
+  - Alyssa Brown
+  - Jordan B. Peacock
+  - Daniel T. Leung
+  - Rashmee U. Shah
+  publisher: JAMA Network Open
+  date: '2020-08-14'
+  link: https://doi.org/gm5vkj
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/mBio.02847-20
+  title: Humans Surviving Cholera Develop Antibodies against Vibrio cholerae O-Specific
+    Polysaccharide That Inhibit Pathogen Motility
+  authors:
+  - Richelle C. Charles
+  - Meagan Kelly
+  - Jenny M. Tam
+  - Aklima Akter
+  - Motaher Hossain
+  - Kamrul Islam
+  - Rajib Biswas
+  - Mohammad Kamruzzaman
+  - Fahima Chowdhury
+  - Ashraful I. Khan
+  - Daniel T. Leung
+  - Ana Weil
+  - Regina C. LaRocque
+  - Taufiqur Rahman Bhuiyan
+  - Atiqur Rahman
+  - Leslie M. Mayo-Smith
+  - Rachel L. Becker
+  - Jatin M. Vyas
+  - Christina S. Faherty
+  - Kourtney P. Nickerson
+  - Samantha Giffen
+  - Alaina S. Ritter
+  - Matthew K. Waldor
+  - Peng Xu
+  - "Pavol Kov\xE1\u010D"
+  - Stephen B. Calderwood
+  - Robert C. Kauffman
+  - Jens Wrammert
+  - Firdausi Qadri
+  - Jason B. Harris
+  - Edward T. Ryan
+  publisher: mBio
+  date: '2020-12-22'
+  link: https://doi.org/gs4q4c
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.55615
+  title: Mucosal-associated invariant T (MAIT) cells mediate protective host responses
+    in sepsis
+  authors:
+  - Shubhanshi Trivedi
+  - Daniel Labuz
+  - Cole P Anderson
+  - Claudia V Araujo
+  - Antoinette Blair
+  - Elizabeth A Middleton
+  - Owen Jensen
+  - Alexander Tran
+  - Matthew A Mulvey
+  - Robert A Campbell
+  - J Scott Hale
+  - Matthew T Rondina
+  - Daniel T Leung
+  publisher: eLife
+  date: '2020-11-09'
+  link: https://doi.org/ghxndd
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/taaa132
+  title: 'Travel-related hepatitis E: a two-decade GeoSentinel analysis'
+  authors:
+  - Laura Ambra P Nicolini
+  - Rhett J Stoney
+  - Andrea Della Vecchia
+  - Martin Grobusch
+  - Philippe Gautret
+  - Kristina M Angelo
+  - Perry J J van Genderen
+  - Emmanuel Bottieau
+  - Karin Leder
+  - Hilmir Asgeirsson
+  - Daniel T Leung
+  - Bradley Connor
+  - Prativa Pandey
+  - Federica Toscanini
+  - Federico Gobbi
+  - Francesco Castelli
+  - Matteo Bassetti
+  - Davidson H Hamer
+  publisher: Journal of Travel Medicine
+  date: '2020-08-12'
+  link: https://doi.org/gh9pch
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/taz055
+  title: 'Cutaneous and mucocutaneous leishmaniasis in travellers and migrants: a
+    20-year GeoSentinel Surveillance Network analysis'
+  authors:
+  - Andrea K Boggild
+  - Eric Caumes
+  - Martin P Grobusch
+  - Eli Schwartz
+  - Noreen A Hynes
+  - Michael Libman
+  - Bradley A Connor
+  - Sumontra Chakrabarti
+  - Philippe Parola
+  - Jay S Keystone
+  - Theodore Nash
+  - Adrienne J Showler
+  - Mirjam Schunk
+  - Hilmir Asgeirsson
+  - Davidson H Hamer
+  - Kevin C Kain
+  - Frank von Sonnenburg
+  - Camilla Rothe
+  - Sabine Jordan
+  - Christof Vinnemeier
+  - Cedric Yansouni
+  - Anne McCarthy
+  - Mogens Jensenius
+  - Abraham Goorhuis
+  - Christina Coyle
+  - Frank Mockenhaupt
+  - Gundel Harms-Zwingengerger
+  - Daniel Leung
+  - Scott Benson
+  - Philippe Gautret
+  - Emilie Javelle
+  - Francois Chappuis
+  - Christophe Rapp
+  - Cecile Ficko
+  - Perry van Genderen
+  - Hedvig Glans
+  - Michael Beadsworth
+  - Nicholas Beeching
+  - Francesco Castelli
+  - Alberto Matteelli
+  - Katherine Plewes
+  - Yazdan Mirzanejad
+  - Rogelio Lopez-Velez
+  - Sandra Chamorro
+  - Jesse Waggoner
+  - Henry Wu
+  - Karin Leder
+  - Joseph Torresi
+  - Emmanuel Bottieau
+  - Ralph Huits
+  - Lin Chen
+  - Daniel Bourque
+  - Jonathan Alpern
+  - William Stauffer
+  - John Cahill
+  - Ben Wyler
+  - Jean Haulman
+  - Anne Terry
+  - Carmelo Licitra
+  - Ashley Taylor
+  - Cecilia Perret Perez
+  - Thomas Weitzel
+  - Effrossyni Gkrania-Klotsas
+  - Ben Warne
+  - Patricia Schlagenhauf
+  - Rainer Weber
+  - Carsten Schade Larsen
+  - Christian Wejse
+  - Elizabeth Barnett
+  - Natasha Hochberg
+  - Sapha Barkati
+  - Jean Vincelette
+  - Israel Molina
+  - Denis Malvy
+  - Alexandre Duvignaud
+  - Marc Mendelson
+  - Salim Parker
+  - Victoria Johnston
+  - Vanessa Field
+  - Susan Kuhn
+  - Watcharapong Piyaphanee
+  - Udomsak Silachamroon
+  - Marta Diaz-Menendez
+  - Paul Kelly
+  - Lucille Blumberg
+  - Albie de Frey
+  - Prativa Pandey
+  - Bhawana Amatya
+  - Kunjana Mavunda
+  - Mauro Saio
+  publisher: Journal of Travel Medicine
+  date: '2019-01-01'
+  link: https://doi.org/gh8vt4
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0007874
+  title: Immune responses to O-specific polysaccharide (OSP) in North American adults
+    infected with Vibrio cholerae O1 Inaba
+  authors:
+  - Motaher Hossain
+  - Kamrul Islam
+  - Meagan Kelly
+  - Leslie M. Mayo Smith
+  - Richelle C. Charles
+  - Ana A. Weil
+  - Taufiqur Rahman Bhuiyan
+  - "Pavol Kov\xE1\u010D"
+  - Peng Xu
+  - Stephen B. Calderwood
+  - Jakub K. Simon
+  - Wilbur H. Chen
+  - Michael Lock
+  - Caroline E. Lyon
+  - Beth D. Kirkpatrick
+  - Mitchell Cohen
+  - Myron M. Levine
+  - Marc Gurwith
+  - Daniel T. Leung
+  - Andrew S. Azman
+  - Jason B. Harris
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2019-11-19'
+  link: https://doi.org/gkbh5b
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/taz031
+  title: 'Characteristics and preparation of the last-minute traveler: analysis of
+    vaccine usage in the Global TravEpiNet Consortium'
+  authors:
+  - Johnnie A Yates
+  - Sowmya R Rao
+  - Allison Taylor Walker
+  - Douglas H Esposito
+  - Mark Sotir
+  - Regina C LaRocque
+  - Edward T Ryan
+  - George M Abraham
+  - Salvador Alvarez
+  - Vernon Ansdell
+  - Johnnie A Yates
+  - Elisha H Atkins
+  - Holly K Birich
+  - Dagmar Vitek
+  - John Cahill
+  - Lin Chen
+  - Bradley A Connor
+  - Roberta Dismukes
+  - Phyllis Kozarsky
+  - Henry Wu
+  - Ronke Dosunmu
+  - Jeffrey A Goad
+  - Edith Mirzaian
+  - "Nelson Iv\xE1n Agudelo Higuita"
+  - Karl Hess
+  - Noreen A Hynes
+  - Frederique Jacquerioz
+  - Susan McLellan
+  - Jenn Katsolis
+  - Paul Kelly
+  - Mark Knouse
+  - Jennifer Lee
+  - Daniel Leung
+  - Alawode Oladele
+  - Hanna Demeke
+  - Alawode Oladele
+  - Althea Otuata
+  - Roger Pasinski
+  - Amy E Wheeler
+  - Adrienne Showler
+  - Laura Coster
+  - Jessica Rosen
+  - Brian S Schwartz
+  - William Stauffer
+  - Patricia Walker
+  - Joseph Vinetz
+  publisher: Journal of Travel Medicine
+  date: '2019-01-01'
+  link: https://doi.org/gnvv5x
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17504/protocols.io.6ydhfs6
+  title: Bangladesh National Serosurvey Vibriocidal Protocol (96-well plate, OD600,
+    mAb) v1
+  authors:
+  - Taufiqur Bhuiyan
+  - Jason Harris
+  - Owen Jensen
+  - Daniel Leung
+  - Andrew S Azman
+  - Firdausi Qadri
+  publisher: ZappyLab, Inc.
+  date: '2019-08-30'
+  link: https://doi.org/gs4q4f
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3201/eid2507.181492
+  title: Microbiome and Antimicrobial Resistance Gene Dynamics in International Travelers
+  authors:
+  - Charles Langelier
+  - Michael Graves
+  - Katrina Kalantar
+  - Saharai Caldera
+  - Robert Durrant
+  - Mark Fisher
+  - Richard Backman
+  - Windy Tanner
+  - Joseph L. DeRisi
+  - Daniel T. Leung
+  publisher: Emerging Infectious Diseases
+  date: '2019-07-01'
+  link: https://doi.org/gpsqwf
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.aau6242
+  title: Estimating cholera incidence with cross-sectional serology
+  authors:
+  - Andrew S. Azman
   - Justin Lessler
-  - Michael A Johansson
+  - Francisco J. Luquero
+  - Taufiqur Rahman Bhuiyan
+  - Ashraful Islam Khan
+  - Fahima Chowdhury
+  - Alamgir Kabir
+  - Marc Gurwith
+  - Ana A. Weil
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Edward T. Ryan
+  - Firdausi Qadri
+  - Daniel T. Leung
+  publisher: Science Translational Medicine
+  date: '2019-02-20'
+  link: https://doi.org/gjhkdx
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/ofid/ofy266
+  title: Potentially Serious Drug Interactions Resulting From the Pretravel Health
+    Encounter
+  authors:
+  - Nadine Sbaih
+  - Brian Buss
+  - Dheeraj Goyal
+  - Sowmya R Rao
+  - Russell Benefield
+  - Allison Taylor Walker
+  - Douglas H Esposito
+  - Edward T Ryan
+  - Regina C LaRocque
+  - Daniel T Leung
+  - George M Abraham
+  - Salvador Alvarez
+  - Vernon Ansdell
+  - Johnnie A Yates
+  - Elisha H Atkins
+  - Holly K Birich
+  - Dagmar Vitek
+  - John Cahill
+  - Lin Chen
+  - Bradley A Connor
+  - Roberta Dismukes
+  - Jessica Fairley
+  - Phyllis Kozarsky
+  - Henry Wu
+  - Ronke Dosunmu
+  - Jeffrey A Goad
+  - Edith Mirzaian
+  - Karl Hess
+  - Noreen A Hynes
+  - Frederique Jacquerioz
+  - Susan McLellan
+  - Jenn Katsolis
+  - Paul Kelly
+  - Mark Knouse
+  - Jennifer Lee
+  - Daniel Leung
+  - Brian Kendall
+  - DeVon Hale
+  - Alawode Oladele
+  - Hanna Demeke
+  - Alawode Oladele
+  - Althea Otuata
+  - Roger Pasinski
+  - Amy E Wheeler
+  - Adrienne Showler
+  - Laura Coster
+  - Jessica Rosen
+  - Brian S Schwartz
+  - William Stauffer
+  - Patricia Walker
+  - Joseph Vinetz
+  publisher: Open Forum Infectious Diseases
+  date: '2018-10-22'
+  link: https://doi.org/gs4q4g
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20411/pai.v3i2.250
+  title: 'Fecal Host Transcriptomics for Non-invasive Human Mucosal Immune Profiling:
+    Proof of Concept in Clostridium difficile Infection'
+  authors:
+  - Robert Schlaberg
+  - Amanda Barrett
+  - Kornelia Edes
+  - Michael Graves
+  - Litty Paul
+  - Jenna Rychert
+  - Bert K. Lopansri
+  - Daniel T. Leung
+  publisher: Pathogens and Immunity
+  date: '2018-09-12'
+  link: https://doi.org/gs4q4h
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.17-0339
+  title: High Prevalence of Shigella or Enteroinvasive Escherichia coli Carriage among
+    Residents of an Internally Displaced Persons Camp in South Sudan
+  authors:
+  - Jesse Bliss
+  - Malika Bouhenia
+  - Peter Hale
+  - Brianne A. Couturier
+  - Anita S. Iyer
+  - John Rumunu
+  - Stephen Martin
+  - Joseph F. Wamala
+  - Abdinasir Abubakar
+  - David A. Sack
+  - Francisco J. Luquero
+  - Marc Roger Couturier
+  - Andrew S. Azman
+  - Daniel T. Leung
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2018-02-07'
+  link: https://doi.org/gdhg9p
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/tay074
+  title: "Illness among US resident student travellers after return to the USA: a\
+    \ GeoSentinel analysis, 2007\u201317"
+  authors:
+  - Kristina M Angelo
+  - N Jean Haulman
+  - Anne C Terry
+  - Daniel T Leung
+  - Lin H Chen
+  - Elizabeth D Barnett
+  - Stefan H F Hagmann
+  - Noreen A Hynes
+  - Bradley A Connor
+  - Susan Anderson
+  - Anne McCarthy
+  - Marc Shaw
+  - Perry J J Van Genderen
+  - Davidson H Hamer
+  publisher: Journal of Travel Medicine
+  date: '2018-01-01'
+  link: https://doi.org/gd96nq
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0006196
+  title: Dried Blood Spots for Measuring Vibrio cholerae-specific Immune Responses
+  authors:
+  - Anita S. Iyer
+  - Andrew S. Azman
+  - Malika Bouhenia
+  - Lul O. Deng
+  - Cole P. Anderson
+  - Michael Graves
+  - "Pavol Kov\xE1\u010D"
+  - Peng Xu
+  - Edward T. Ryan
+  - Jason B. Harris
+  - David A. Sack
+  - Francisco J. Luquero
+  - Daniel T. Leung
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2018-01-29'
+  link: https://doi.org/gcwdkg
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7326/aitc201801020
+  title: Travel Medicine
+  authors:
+  - Daniel T. Leung
+  - Regina C. LaRocque
+  - Edward T. Ryan
+  publisher: Annals of Internal Medicine
+  date: '2018-01-02'
+  link: https://doi.org/gpxd5c
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/tax097
+  title: "Business travel-associated illness: a GeoSentinel analysis\u2020"
+  authors:
+  - Lin H Chen
+  - Karin Leder
+  - Kira A Barbre
+  - Patricia Schlagenhauf
+  - Michael Libman
+  - Jay Keystone
+  - Marc Mendelson
+  - Philippe Gautret
+  - Eli Schwartz
+  - Marc Shaw
+  - Sue MacDonald
+  - Anne McCarthy
+  - Bradley A Connor
+  - Douglas H Esposito
+  - Davidson Hamer
+  - Mary E Wilson
+  - Carmelo Licitra
+  - Alena Klochko
+  - Cecilia Perret Perez
+  - Cedric Yansouni
+  - Christina Coyle
+  - Christoph Rapp
+  - Cecile Ficko
+  - David Lalloo
+  - Nicholas Beeching
+  - Denis Malvy
+  - Alexandre Duvignaud
+  - Devon Hale
+  - Daniel Leung
+  - Scott Benson
+  - Effrossyni Gkrania-Klotsas
+  - Ben Warne
+  - Elizabeth Barnett
+  - Natasha Hochberg
+  - Emilie Javelle
+  - Eric Caumes
+  - Alice Perignon
+  - Francesco Castelli
+  - Alberto Matteelli
+  - Francois Chappuis
+  - Frank Mockenhaupt
+  - Gundel Harms-Zwingenberger
+  - Frank von Sonnenburg
+  - Camilla Rothe
+  - "Hilmir \xC1sgeirsson"
+  - Hedvig Glans
+  - Holly Murphy
+  - Prativa Pandey
+  - Hugo Siu
+  - Luis Manuel Valdez
+  - Jakob Cramer
+  - Sabine Jordan
+  - Christof Vinnemeier
+  - Jan Hajek
+  - Wayne Ghesquiere
+  - Jean Haulman
+  - David Roesel
+  - Jean Vincelette
+  - Sapha Barkati
+  - Joe Torresi
+  - John Cahill
+  - George McKinley
+  - Johnnie Yates
+  - Kevin Kain
+  - Andrea Boggild
+  - Martin Grobusch
+  - Bram Goorhuis
+  - Mogens Jensenius
+  - Noreen Hynes
+  - Paul Kelly
+  - Stefan Hagmann
+  - Perry van Genderen
+  - Peter Vincent
+  - Phi Truong Hoang Phu
+  - Phyllis Kozarsky
+  - Henry Wu
+  - Poh-Lian Lim
+  - Rainer Weber
+  - Rogelio Lopez-Velez
+  - Francesca Norman
+  - Sarah Borwein
+  - Shuzo Kanagawa
+  - Yasuyuki Kato
+  - Susan Anderson
+  - Susan Kuhn
+  - Watcharapong Piyaphanee
+  - Udomsak Silachamroon
+  - William Stauffer
+  - Pat Walker
+  - Yukiriro Yoshimura
+  - Natsuo Tachikawa
+  publisher: Journal of Travel Medicine
+  date: '2018-01-01'
+  link: https://doi.org/gh8tfk
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0006951
+  title: 'Rabies post-exposure prophylaxis started during or after travel: A GeoSentinel
+    analysis'
+  authors:
+  - Philippe Gautret
+  - Kristina M. Angelo
+  - Hilmir Asgeirsson
+  - David G. Lalloo
+  - Marc Shaw
+  - Eli Schwartz
+  - Michael Libman
+  - Kevin C. Kain
+  - Watcharapong Piyaphanee
+  - Holly Murphy
+  - Karin Leder
+  - Jean Vincelette
+  - Mogens Jensenius
+  - Jesse Waggoner
+  - Daniel Leung
+  - Sarah Borwein
+  - Lucille Blumberg
+  - Patricia Schlagenhauf
+  - Elizabeth D. Barnett
+  - Davidson H. Hamer
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2018-11-13'
+  link: https://doi.org/gfmqkh
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1189/jlb.4a0317-116r
+  title: Human mucosal-associated invariant T (MAIT) cells possess capacity for B
+    cell help
+  authors:
+  - Michael S Bennett
+  - Shubhanshi Trivedi
+  - Anita S Iyer
+  - J Scott Hale
+  - Daniel T Leung
+  publisher: Journal of Leukocyte Biology
+  date: '2017-11-01'
+  link: https://doi.org/gchbps
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/infdis/jix253
+  title: Plasma and Mucosal Immunoglobulin M, Immunoglobulin A, and Immunoglobulin
+    G Responses to the Vibrio cholerae O1 Protein Immunome in Adults With Cholera
+    in Bangladesh
+  authors:
+  - Richelle C. Charles
+  - Rie Nakajima
+  - Li Liang
+  - Al Jasinskas
+  - Amanda Berger
+  - Daniel T. Leung
+  - Meagan Kelly
+  - Peng Xu
+  - "Pavol Kov\xE1\u010D"
+  - Samantha R. Giffen
+  - James D. Harbison
+  - Fahima Chowdhury
+  - Ashraful I. Khan
+  - Stephen B. Calderwood
+  - Taufiqur Rahman Bhuiyan
+  - Jason B. Harris
+  - Philip L. Felgner
+  - Firdausi Qadri
+  - Edward T. Ryan
   publisher: The Journal of Infectious Diseases
-  date: '2017-12-15'
-  link: https://doi.org/gcrq5c
-  orcid: 0000-0002-8526-3007
+  date: '2017-05-23'
+  link: https://doi.org/f9724b
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.jtbi.2016.01.022
-  title: Estimating finite-population reproductive numbers in heterogeneous populations
+- id: doi:10.4269/ajtmh.16-0620
+  title: High Hepatitis E Seroprevalence Among Displaced Persons in South Sudan
   authors:
-  - Lindsay T. Keegan
-  - Jonathan Dushoff
-  publisher: Journal of Theoretical Biology
+  - Andrew S. Azman
+  - Malika Bouhenia
+  - Anita S. Iyer
+  - John Rumunu
+  - Richard Lino Laku
+  - Joseph F. Wamala
+  - Isabel Rodriguez-Barraquer
+  - Justin Lessler
+  - Etienne Gignoux
+  - Francisco J. Luquero
+  - Daniel T. Leung
+  - Emily S. Gurley
+  - Iza Ciglenecki
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2017-06-07'
+  link: https://doi.org/gbnfxc
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jtm/taw099
+  title: Clostridium difficile infection in returning travellers
+  authors:
+  - A. Michal Stevens
+  - Douglas H. Esposito
+  - Rhett J. Stoney
+  - Davidson H. Hamer
+  - Jose Flores-Figueroa
+  - Emmanuel Bottieau
+  - Bradley A. Connor
+  - Effrossyni Gkrania-Klotsas
+  - Abraham Goorhuis
+  - Noreen A. Hynes
+  - Michael Libman
+  - Rogelio Lopez-Velez
+  - Anne E. McCarthy
+  - Frank von Sonnenburg
+  - Eli Schwartz
+  - Perry J.J. van Genderen
+  - L. Scott Benson
+  - Daniel T. Leung
+  publisher: Journal of Travel Medicine
+  date: '2017-02-26'
+  link: https://doi.org/f9vk8k
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0005512
+  title: 'Determinants of severe dehydration from diarrheal disease at hospital presentation:
+    Evidence from 22 years of admissions in Bangladesh'
+  authors:
+  - Jason R. Andrews
+  - Daniel T. Leung
+  - Shahnawaz Ahmed
+  - Mohammed Abdul Malek
+  - Dilruba Ahmed
+  - Yasmin Ara Begum
+  - Firdausi Qadri
+  - Tahmeed Ahmed
+  - Abu Syed Golam Faruque
+  - Eric J. Nelson
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2017-04-27'
+  link: https://doi.org/f95b2q
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12936-017-1936-3
+  title: "Malaria after international travel: a GeoSentinel analysis, 2003\u20132016"
+  authors:
+  - Kristina M. Angelo
+  - Michael Libman
+  - Eric Caumes
+  - Davidson H. Hamer
+  - Kevin C. Kain
+  - Karin Leder
+  - Martin P. Grobusch
+  - Stefan H. Hagmann
+  - Phyllis Kozarsky
+  - David G. Lalloo
+  - Poh-Lian Lim
+  - Calvin Patimeteeporn
+  - Philippe Gautret
+  - Silvia Odolini
+  - "Fran\xE7ois Chappuis"
+  - Douglas H. Esposito
+  publisher: Malaria Journal
+  date: '2017-07-20'
+  link: https://doi.org/gbrrqg
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20411/pai.v2i1.174
+  title: Socioeconomic Determinants of Ciprofloxacin-Resistant &lt;em&gt;Shigella&lt;/em&gt;
+    Infections in Bangladeshi Children
+  authors:
+  - Randon J. Gruninger
+  - Russell A. Johnson
+  - Sumon K. Das
+  - Eric J. Nelson
+  - Emily S. Spivak
+  - John R. Contreras
+  - A.S.G. Faruque
+  - Daniel T. Leung
+  publisher: Pathogens and Immunity
+  date: '2017-03-25'
+  link: https://doi.org/gs4q4m
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0005039
+  title: Biomarkers of Environmental Enteropathy are Positively Associated with Immune
+    Responses to an Oral Cholera Vaccine in Bangladeshi Children
+  authors:
+  - Muhammad Ikhtear Uddin
+  - Shahidul Islam
+  - Naoshin S. Nishat
+  - Motaher Hossain
+  - Tanzeem Ahmed Rafique
+  - Rasheduzzaman Rashu
+  - Mohammad Rubel Hoq
+  - Yue Zhang
+  - Amit Saha
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Taufiqur Rahman Bhuiyan
+  - Edward T. Ryan
+  - Daniel T. Leung
+  - Firdausi Qadri
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2016-11-08'
+  link: https://doi.org/f9q69h
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/trstmh/trw061
+  title: "Clinical characteristics of laboratory-confirmed leptospirosis in Okinawa,\
+    \ Japan, 1974\u20132015: high incidence of Jarisch\u2013Herxheimer reaction"
+  authors:
+  - Sanefumi Tsuha
+  - Tomohiro Taniguchi
+  - Soichi Shiiki
+  - Masashi Narita
+  - Daniel T. Leung
+  publisher: Transactions of The Royal Society of Tropical Medicine and Hygiene
+  date: '2016-09-01'
+  link: https://doi.org/gs4q4n
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep35742
+  title: Immune Responses to an Oral Cholera Vaccine in Internally Displaced Persons
+    in South Sudan
+  authors:
+  - Anita S. Iyer
+  - Malika Bouhenia
+  - John Rumunu
+  - Abdinasir Abubakar
+  - Randon J. Gruninger
+  - Jane Pita
+  - Richard Lako Lino
+  - Lul L. Deng
+  - Joseph F. Wamala
+  - Edward T. Ryan
+  - Stephen Martin
+  - Dominique Legros
+  - Justin Lessler
+  - David A. Sack
+  - Francisco J. Luquero
+  - Daniel T. Leung
+  - Andrew S. Azman
+  publisher: Scientific Reports
+  date: '2016-10-24'
+  link: https://doi.org/f87g94
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00647-15
+  title: O-Specific Polysaccharide-Specific Memory B Cell Responses in Young Children,
+    Older Children, and Adults Infected with Vibrio cholerae O1 Ogawa in Bangladesh
+  authors:
+  - Amena Aktar
+  - M. Arifur Rahman
+  - Sadia Afrin
+  - M. Omar Faruk
+  - Taher Uddin
+  - Aklima Akter
+  - M. Israk Nur Sami
+  - Tahirah Yasmin
+  - Fahima Chowdhury
+  - Ashraful I. Khan
+  - Daniel T. Leung
+  - Regina C. LaRocque
+  - Richelle C. Charles
+  - Taufiqur Rahman Bhuiyan
+  - Anjali Mandlik
+  - Meagan Kelly
+  - "Pavol Kov\xE1\u010D"
+  - Peng Xu
+  - Stephen B. Calderwood
+  - Jason B. Harris
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
   date: '2016-05-01'
-  link: https://doi.org/f8j8rc
-  orcid: 0000-0002-8526-3007
+  link: https://doi.org/f8qxt2
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s11538-014-9950-x
-  title: Analytic Calculation of Finite-Population Reproductive Numbers for Direct-
-    and Vector-Transmitted Diseases with Homogeneous Mixing
+- id: doi:10.1016/j.pcl.2015.08.003
+  title: Prevention and Control of Childhood Pneumonia and Diarrhea
   authors:
-  - Lindsay Keegan
-  - Jonathan Dushoff
-  publisher: Bulletin of Mathematical Biology
-  date: '2014-04-23'
-  link: https://doi.org/f52vb3
-  orcid: 0000-0002-8526-3007
+  - Daniel T. Leung
+  - Mohammod J. Chisti
+  - Andrew T. Pavia
+  publisher: Pediatric Clinics of North America
+  date: '2016-02-01'
+  link: https://doi.org/gs4q4q
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/1471-2334-13-428
-  title: Population-level effects of clinical immunity to malaria
+- id: doi:10.1016/j.mcna.2015.08.017
+  title: "Traveler\u2019s Diarrhea"
   authors:
-  - Lindsay T Keegan
-  - Jonathan Dushoff
-  publisher: BMC Infectious Diseases
-  date: '2013-09-11'
-  link: https://doi.org/gb466c
-  orcid: 0000-0002-8526-3007
+  - Stanley L. Giddings
+  - A. Michal Stevens
+  - Daniel T. Leung
+  publisher: Medical Clinics of North America
+  date: '2016-03-01'
+  link: https://doi.org/gk47g7
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0003881
+  title: A Cholera Conjugate Vaccine Containing O-specific Polysaccharide (OSP) of
+    V. cholerae O1 Inaba and Recombinant Fragment of Tetanus Toxin Heavy Chain (OSP:rTTHc)
+    Induces Serum, Memory and Lamina Proprial Responses against OSP and Is Protective
+    in Mice
+  authors:
+  - Md. Abu Sayeed
+  - Meagan Kelly Bufano
+  - Peng Xu
+  - Grace Eckhoff
+  - Richelle C. Charles
+  - Mohammad Murshid Alam
+  - Tania Sultana
+  - Md. Rasheduzzaman Rashu
+  - Amanda Berger
+  - Geoffrey Gonzalez-Escobedo
+  - Anjali Mandlik
+  - Taufiqur Rahman Bhuiyan
+  - Daniel T. Leung
+  - Regina C. LaRocque
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - W. F. Vann
+  - "Pavol Kov\xE1\u010D"
+  - Edward T. Ryan
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2015-07-08'
+  link: https://doi.org/f7m86h
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijid.2015.08.006
+  title: 'Cholera in pregnancy: Clinical and immunological aspects'
+  authors:
+  - Ashraful I. Khan
+  - Fahima Chowdhury
+  - Daniel T. Leung
+  - Regina C. Larocque
+  - Jason B. Harris
+  - Edward T. Ryan
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  publisher: International Journal of Infectious Diseases
+  date: '2015-10-01'
+  link: https://doi.org/f3jjt5
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.15-0074
+  title: Concurrent Pneumonia in Children Under 5 Years of Age Presenting to a Diarrheal
+    Hospital in Dhaka, Bangladesh
+  authors:
+  - Daniel T. Leung
+  - Sumon K. Das
+  - A. S. G. Faruque
+  - M. A. Malek
+  - Mohammod J. Chisti
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2015-10-07'
+  link: https://doi.org/f7tkp5
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0004066
+  title: Factors Associated with Non-typhoidal Salmonella Bacteremia versus Typhoidal
+    Salmonella Bacteremia in Patients Presenting for Care in an Urban Diarrheal Disease
+    Hospital in Bangladesh
+  authors:
+  - K. M. Shahunja
+  - Daniel T. Leung
+  - Tahmeed Ahmed
+  - Pradip Kumar Bardhan
+  - Dilruba Ahmed
+  - Firdausi Qadri
+  - Edward T. Ryan
+  - Mohammod Jobayer Chisti
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2015-09-11'
+  link: https://doi.org/f7v696
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/QCO.0000000000000189
+  title: Innate-like lymphocytes in intestinal infections
+  authors:
+  - Michael S. Bennett
+  - June L. Round
+  - Daniel T. Leung
+  publisher: Current Opinion in Infectious Diseases
+  date: '2015-10-01'
+  link: https://doi.org/f72687
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.15-0172
+  title: Plasma Leptin Levels in Children Hospitalized with Cholera in Bangladesh
+  authors:
+  - Brie Falkard
+  - Taher Uddin
+  - M. Arifur Rahman
+  - Molly F. Franke
+  - Amena Aktar
+  - Muhammad Ikhtear Uddin
+  - Taufiqur Rahman Bhuiyan
+  - Daniel T. Leung
+  - Richelle C. Charles
+  - Regina C. Larocque
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2015-08-05'
+  link: https://doi.org/f7nqmn
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0141483
+  title: 'Profile of an HIV Testing and Counseling Unit in Bangladesh: Majority of
+    New Diagnoses among Returning Migrant Workers and Spouses'
+  authors:
+  - Arunthia Zaidi Urmi
+  - Daniel T. Leung
+  - Vanessa Wilkinson
+  - Mohammad Abdul Awal Miah
+  - Mahfuza Rahman
+  - Tasnim Azim
+  publisher: PLOS ONE
+  date: '2015-10-29'
+  link: https://doi.org/gs4q4r
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.13-0261
+  title: Cellular and Cytokine Responses to Salmonella enterica Serotype Typhi Proteins
+    in Patients with Typhoid Fever in Bangladesh
+  authors:
+  - Saruar Bhuiyan
+  - Abu Sayeed
+  - Farhana Khanam
+  - Daniel T. Leung
+  - Taufiqur Rahman Bhuiyan
+  - Alaullah Sheikh
+  - Umme Salma
+  - Regina C. LaRocque
+  - Jason B. Harris
+  - Marcin Pacek
+  - Stephen B. Calderwood
+  - Joshua LaBaer
+  - Edward T. Ryan
+  - Firdausi Qadri
+  - Richelle C. Charles
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2014-06-04'
+  link: https://doi.org/f55xnp
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.13-0498
+  title: Immune Responses to O-Specific Polysaccharide and Lipopolysaccharide of Vibrio
+    cholerae O1 Ogawa in Adult Bangladeshi Recipients of an Oral Killed Cholera Vaccine
+    and Comparison to Responses in Patients with Cholera
+  authors:
+  - Taher Uddin
+  - Daniel T. Leung
+  - Atiqur Rahman
+  - Aklima Akter
+  - Firdausi Qadri
+  - Regina C. LaRocque
+  - Edward T. Ryan
+  - Ashraful I. Khan
+  - Richelle C. Charles
+  - Peng Xu
+  - Meagan K. Bufano
+  - Fahima Chowdhury
+  - Mohammad Murshid Alam
+  - Amena Aktar
+  - Yanan Yu
+  - Taufiqur Rahman Bhuiyan
+  - M. Arifur Rahman
+  - "Pavol Kov\xE1\u010D"
+  - Russell A. Johnson
+  - Rasheduzzaman Rashu
+  - Stephen B. Calderwood
+  - Sadia Afrin
+  - Jason B. Harris
+  - Ying Wu-Freeman
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2014-05-07'
+  link: https://doi.org/f52sw3
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0002683
+  title: Evaluation in Mice of a Conjugate Vaccine for Cholera Made from Vibrio cholerae
+    O1 (Ogawa) O-Specific Polysaccharide
+  authors:
+  - Mohammad Murshid Alam
+  - Megan Kelly Bufano
+  - Peng Xu
+  - Anuj Kalsy
+  - Y. Yu
+  - Y. Wu Freeman
+  - Tania Sultana
+  - Md. Rasheduzzaman Rashu
+  - Ishaan Desai
+  - Grace Eckhoff
+  - Daniel T. Leung
+  - Richelle C. Charles
+  - Regina C. LaRocque
+  - Jason B. Harris
+  - John D. Clements
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - W. F. Vann
+  - "Pavol Kov\xE1\u010D"
+  - Edward T. Ryan
+  publisher: PLoS Neglected Tropical Diseases
+  date: '2014-02-06'
+  link: https://doi.org/gs4q4s
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.13-0513
+  title: "Impact of Ramadan on Clinical and Microbiologic Parameters of Patients Seen\
+    \ at a Diarrheal Hospital in Urban Dhaka, Bangladesh, 1996\u20132012"
+  authors:
+  - Daniel T. Leung
+  - M. A. Malek
+  - A. S. G. Faruque
+  - Edward T. Ryan
+  - Firdausi Qadri
+  - Sumon K. Das
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2014-02-05'
+  link: https://doi.org/f5sdn7
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.14-0095
+  title: Bacterial Shedding in Household Contacts of Cholera Patients in Dhaka, Bangladesh
+  authors:
+  - Ana A. Weil
+  - Regina C. LaRocque
+  - Richelle C. Charles
+  - Ashraful I. Khan
+  - Daniel T. Leung
+  - Edward T. Ryan
+  - Jason B. Harris
+  - Yasmin Begum
+  - Stephen B. Calderwood
+  - Fahima Chowdhury
+  - Firdausi Qadri
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2014-10-01'
+  link: https://doi.org/f6j464
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0113095
+  title: 'Characteristics and Predictors of Death among Hospitalized HIV-Infected
+    Patients in a Low HIV Prevalence Country: Bangladesh'
+  authors:
+  - Lubaba Shahrin
+  - Daniel T. Leung
+  - Nashaba Matin
+  - Mohammed Moshtaq Pervez
+  - Tasnim Azim
+  - Pradip Kumar Bardhan
+  - James D. Heffelfinger
+  - Mohammod Jobayer Chisti
+  publisher: PLoS ONE
+  date: '2014-12-08'
+  link: https://doi.org/gqc3g5
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0003076
+  title: Circulating Mucosal Associated Invariant T Cells Are Activated in Vibrio
+    cholerae O1 Infection and Associated with Lipopolysaccharide Antibody Responses
+  authors:
+  - Daniel T. Leung
+  - Taufiqur R. Bhuiyan
+  - Naoshin S. Nishat
+  - Mohammad Rubel Hoq
+  - Amena Aktar
+  - M. Arifur Rahman
+  - Taher Uddin
+  - Ashraful I. Khan
+  - Fahima Chowdhury
+  - Richelle C. Charles
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: PLoS Neglected Tropical Diseases
+  date: '2014-08-21'
+  link: https://doi.org/f6g588
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1179/2046905513Y.0000000100
+  title: Clinical profile of hospitalized HIV-infected children in Bangladesh, a low-HIV-prevalence
+    country
+  authors:
+  - Lubaba Shahrin
+  - Daniel T. Leung
+  - Nashaba Matin
+  - Chowdhury Ali Kawser
+  - Mohammed Moshtaq Pervez
+  - Mohammod Jobayer Chisti
+  publisher: Paediatrics and International Child Health
+  date: '2013-12-06'
+  link: https://doi.org/f56f7w
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00661-13
+  title: Immunoproteomic Analysis of Antibody in Lymphocyte Supernatant in Patients
+    with Typhoid Fever in Bangladesh
+  authors:
+  - Richelle C. Charles
+  - Li Liang
+  - Farhana Khanam
+  - M. Abu Sayeed
+  - Chris Hung
+  - Daniel T. Leung
+  - Stephen Baker
+  - Albrecht Ludwig
+  - Jason B. Harris
+  - Regina C. LaRocque
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Philip L. Felgner
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2013-12-26'
+  link: https://doi.org/f5s5b6
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0062029
+  title: 'Changing Emergence of Shigella Sero-Groups in Bangladesh: Observation from
+    Four Different Diarrheal Disease Hospitals'
+  authors:
+  - Sumon Kumar Das
+  - Shahnawaz Ahmed
+  - Farzana Ferdous
+  - Fahmida Dil Farzana
+  - Mohammod Jobayer Chisti
+  - Daniel T. Leung
+  - Mohammad Abdul Malek
+  - Kaisar Ali Talukder
+  - Pradip Kumar Bardhan
+  - Mohammed Abdus Salam
+  - Abu Syed Golam Faruque
+  - Rubhana Raqib
+  publisher: PLoS ONE
+  date: '2013-04-29'
+  link: https://doi.org/gs4q4t
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.12-0672
+  title: "Non-Typhoidal Salmonella Gastroenteritis at a Diarrheal Hospital in Dhaka,\
+    \ Bangladesh, 1996\u20132011"
+  authors:
+  - Daniel T. Leung
+  - A. S. G. Faruque
+  - M. A. Malek
+  - Edward T. Ryan
+  - Farhana Khanam
+  - Dilruba Ahmed
+  - Firdausi Qadri
+  - Sumon K. Das
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2013-04-03'
+  link: https://doi.org/f4tcnx
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00341-13
+  title: Antibody Avidity in Humoral Immune Responses in Bangladeshi Children and
+    Adults following Administration of an Oral Killed Cholera Vaccine
+  authors:
+  - Mohammad Murshid Alam
+  - Daniel T. Leung
+  - Marjahan Akhtar
+  - Mohammad Nazim
+  - Sarmin Akter
+  - Taher Uddin
+  - Farhana Khanam
+  - Deena Al Mahbuba
+  - Shaikh Meshbahuddin Ahmad
+  - Taufiqur Rahman Bhuiyan
+  - Stephen B. Calderwood
+  - Edward T. Ryan
+  - Firdausi Qadri
+  publisher: Clinical and Vaccine Immunology
+  date: '2013-08-07'
+  link: https://doi.org/f5brnd
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0002335
+  title: Identification of Immunogenic Salmonella enterica Serotype Typhi Antigens
+    Expressed in Chronic Biliary Carriers of S. Typhi in Kathmandu, Nepal
+  authors:
+  - Richelle C. Charles
+  - Tania Sultana
+  - Mohammad Murshid Alam
+  - Yanan Yu
+  - Ying Wu-Freeman
+  - Meagan Kelly Bufano
+  - Sean M. Rollins
+  - Lillian Tsai
+  - Jason B. Harris
+  - Regina C. LaRocque
+  - Daniel T. Leung
+  - W. Abdullah Brooks
+  - Tran Vu Thieu Nga
+  - Sabina Dongol
+  - Buddha Basnyat
+  - Stephen B. Calderwood
+  - Jeremy Farrar
+  - Farhana Khanam
+  - John S. Gunn
+  - Firdausi Qadri
+  - Stephen Baker
+  - Edward T. Ryan
+  publisher: PLoS Neglected Tropical Diseases
+  date: '2013-08-01'
+  link: https://doi.org/f5c6tz
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00054-13
+  title: Identification of<i>In Vivo</i>-Induced Bacterial Proteins during Human Infection
+    with Salmonella enterica Serotype Paratyphi A
+  authors:
+  - Mohammad Murshid Alam
+  - Lillian L. Tsai
+  - Sean M. Rollins
+  - Alaullah Sheikh
+  - Farhana Khanam
+  - Meagan Kelly Bufano
+  - Yanan Yu
+  - Ying Wu-Freeman
+  - Anuj Kalsy
+  - Tania Sultana
+  - M. Abu Sayeed
+  - Nusrat Jahan
+  - Regina C. LaRocque
+  - Jason B. Harris
+  - Daniel T. Leung
+  - W. Abdullah Brooks
+  - Stephen B. Calderwood
+  - Richelle C. Charles
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2013-03-13'
+  link: https://doi.org/f4t8bg
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00035-13
+  title: Immune Responses to the O-Specific Polysaccharide Antigen in Children Who
+    Received a Killed Oral Cholera Vaccine Compared to Responses following Natural
+    Cholera Infection in Bangladesh
+  authors:
+  - Daniel T. Leung
+  - Taher Uddin
+  - Peng Xu
+  - Amena Aktar
+  - Russell A. Johnson
+  - Mohammad Arif Rahman
+  - Mohammad Murshid Alam
+  - Meagan Kelly Bufano
+  - Grace Eckhoff
+  - Ying Wu-Freeman
+  - Yanan Yu
+  - Tania Sultana
+  - Farhana Khanam
+  - Amit Saha
+  - Fahima Chowdhury
+  - Ashraf I. Khan
+  - Richelle C. Charles
+  - Regina C. LaRocque
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - "Pavol Kov\xE1\u010D"
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2013-06-01'
+  link: https://doi.org/f4x4vq
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.2012.12-0323
+  title: Frequency of Reexposure to Vibrio cholerae O1 Evaluated by Subsequent Vibriocidal
+    Titer Rise after an Episode of Severe Cholera in a Highly Endemic Area in Bangladesh
+  authors:
+  - Ana A. Weil
+  - Yasmin Ara Begum
+  - Ashraful I. Khan
+  - Stephen B. Calderwood
+  - Jason B. Harris
+  - Regina C. LaRocque
+  - Nirod Chandra Saha
+  - Daniel T. Leung
+  - Edward T. Ryan
+  - Fahima Chowdhury
+  - Taher Uddin
+  - Firdausi Qadri
+  - Richelle C. Charles
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2012-11-07'
+  link: https://doi.org/f4fm39
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1586/eri.12.23
+  title: Immune responses to cholera in children
+  authors:
+  - Daniel T Leung
+  - Fahima Chowdhury
+  - Stephen B Calderwood
+  - Firdausi Qadri
+  - Edward T Ryan
+  publisher: Expert Review of Anti-infective Therapy
+  date: '2012-01-01'
+  link: https://doi.org/f4kzgb
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00196-12
+  title: Antigen-Specific Memory T Cell Responses after Vaccination with an Oral Killed
+    Cholera Vaccine in Bangladeshi Children and Comparison to Responses in Patients
+    with Naturally Acquired Cholera
+  authors:
+  - Mohammad Arifuzzaman
+  - Rasheduzzaman Rashu
+  - Daniel T. Leung
+  - M. Ismail Hosen
+  - Taufiqur Rahman Bhuiyan
+  - M. Saruar Bhuiyan
+  - Mohammad Arif Rahman
+  - Farhana Khanam
+  - Amit Saha
+  - Richelle C. Charles
+  - Regina C. LaRocque
+  - Ana A. Weil
+  - John D. Clements
+  - Randall K. Holmes
+  - Stephen B. Calderwood
+  - Jason B. Harris
+  - Edward T. Ryan
+  - Firdausi Qadri
+  publisher: Clinical and Vaccine Immunology
+  date: '2012-06-27'
+  link: https://doi.org/f3467t
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00321-12
+  title: Comparison of Immune Responses to the O-Specific Polysaccharide and Lipopolysaccharide
+    of Vibrio cholerae O1 in Bangladeshi Adult Patients with Cholera
+  authors:
+  - Russell A. Johnson
+  - Taher Uddin
+  - Amena Aktar
+  - M. Mohasin
+  - Mohammad Murshid Alam
+  - Fahima Chowdhury
+  - Jason B. Harris
+  - Regina C. LaRocque
+  - Meagan Kelly Bufano
+  - Yanan Yu
+  - Ying Wu-Freeman
+  - Daniel T. Leung
+  - David Sarracino
+  - Bryan Krastins
+  - Richelle C. Charles
+  - Peng Xu
+  - "Pavol Kov\xE1\u010D"
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2012-09-19'
+  link: https://doi.org/f4br6p
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4269/ajtmh.2012.11-0750
+  title: Factors Associated with Encephalopathy in Patients with Salmonella enterica
+    Serotype Typhi Bacteremia Presenting to a Diarrheal Hospital in Dhaka, Bangladesh
+  authors:
+  - Daniel T. Leung
+  - Edward T. Ryan
+  - Jori Bogetz
+  - Mohammod Jobayer Chisti
+  - Megumi Itoh
+  - Lakshmi Ganapathi
+  - Mark A. C. Pietroni
+  publisher: The American Journal of Tropical Medicine and Hygiene
+  date: '2012-04-01'
+  link: https://doi.org/gs4q4v
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.05615-11
+  title: Memory B Cell and Other Immune Responses in Children Receiving Two Doses
+    of an Oral Killed Cholera Vaccine Compared to Responses following Natural Cholera
+    Infection in Bangladesh
+  authors:
+  - Daniel T. Leung
+  - Mohammad Arif Rahman
+  - M. Mohasin
+  - Sweta M. Patel
+  - Amena Aktar
+  - Farhana Khanam
+  - Taher Uddin
+  - M. Asrafuzzaman Riyadh
+  - Amit Saha
+  - Mohammad Murshid Alam
+  - Fahima Chowdhury
+  - Ashraful Islam Khan
+  - Richelle Charles
+  - Regina LaRocque
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2012-03-21'
+  link: https://doi.org/f3w3x3
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00299-12
+  title: Memory B Cell and Other Immune Responses in Children Receiving Two Doses
+    of an Oral Killed Cholera Vaccine Compared to Responses following Natural Cholera
+    Infection in Bangladesh
+  authors:
+  - Daniel T. Leung
+  - Mohammad Arif Rahman
+  - M. Mohasin
+  - Sweta M. Patel
+  - Amena Aktar
+  - Farhana Khanam
+  - Taher Uddin
+  - M. Asrafuzzaman Riyadh
+  - Amit Saha
+  - Mohammad Murshid Alam
+  - Fahima Chowdhury
+  - Ashraful Islam Khan
+  - Richelle Charles
+  - Regina LaRocque
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2012-07-31'
+  link: https://doi.org/f99v7s
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.00037-12
+  title: Memory B Cell Responses to Vibrio cholerae O1 Lipopolysaccharide Are Associated
+    with Protection against Infection from Household Contacts of Patients with Cholera
+    in Bangladesh
+  authors:
+  - Sweta M. Patel
+  - Mohammad Arif Rahman
+  - M. Mohasin
+  - M. Asrafuzzaman Riyadh
+  - Daniel T. Leung
+  - Mohammad Murshid Alam
+  - Fahima Chowdhury
+  - Ashraful I. Khan
+  - Ana A. Weil
+  - Amena Aktar
+  - Mohammad Nazim
+  - Regina C. LaRocque
+  - Edward T. Ryan
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Jason B. Harris
+  publisher: Clinical and Vaccine Immunology
+  date: '2012-06-01'
+  link: https://doi.org/f3zx6d
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.05689-11
+  title: Transcutaneous Immunization with a Vibrio cholerae O1 Ogawa Synthetic Hexasaccharide
+    Conjugate following Oral Whole-Cell Cholera Vaccination Boosts Vibriocidal Responses
+    and Induces Protective Immunity in Mice
+  authors:
+  - A. A. Tarique
+  - A. Kalsy
+  - M. Arifuzzaman
+  - S. M. Rollins
+  - R. C. Charles
+  - D. T. Leung
+  - J. B. Harris
+  - R. C. LaRocque
+  - A. Sheikh
+  - M. S. Bhuiyan
+  - R. Saksena
+  - J. D. Clements
+  - S. B. Calderwood
+  - F. Qadri
+  - "P. Kov\xE1\u010D"
+  - E. T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2012-02-22'
+  link: https://doi.org/f4khzz
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/CVI.05124-11
+  title: Comparison of Memory B Cell, Antibody-Secreting Cell, and Plasma Antibody
+    Responses in Young Children, Older Children, and Adults with Infection Caused
+    by Vibrio cholerae O1 El Tor Ogawa in Bangladesh
+  authors:
+  - Daniel T. Leung
+  - Mohammad Arif Rahman
+  - M. Mohasin
+  - M. Asrafuzzaman Riyadh
+  - Sweta M. Patel
+  - Mohammad Murshid Alam
+  - Fahima Chowdhury
+  - Ashraful Islam Khan
+  - Eric J. Kalivoda
+  - Amena Aktar
+  - M. Saruar Bhuiyan
+  - Regina C. LaRocque
+  - Jason B. Harris
+  - Stephen B. Calderwood
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: Clinical and Vaccine Immunology
+  date: '2011-06-22'
+  link: https://doi.org/fbxx9t
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JCM.01050-11
+  title: "First Report of Prosthetic Joint Infection by Gemella sanguinis and Associated\
+    \ \u201CPseudosatelliting\u201D Phenomenon on Culture"
+  authors:
+  - Daniel T. Leung
+  - Eric M. Davis
+  - Qinfang Qian
+  - Howard S. Gold
+  publisher: Journal of Clinical Microbiology
+  date: '2011-09-01'
+  link: https://doi.org/fj6s7b
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0001419
+  title: In Vivo Expression of Salmonella enterica Serotype Typhi Genes in the Blood
+    of Patients with Typhoid Fever in Bangladesh
+  authors:
+  - Alaullah Sheikh
+  - Richelle C. Charles
+  - Nusrat Sharmeen
+  - Sean M. Rollins
+  - Jason B. Harris
+  - Md. Saruar Bhuiyan
+  - Mohammad Arifuzzaman
+  - Farhana Khanam
+  - Archana Bukka
+  - Anuj Kalsy
+  - Steffen Porwollik
+  - Daniel T. Leung
+  - W. Abdullah Brooks
+  - Regina C. LaRocque
+  - Elizabeth L. Hohmann
+  - Alejandro Cravioto
+  - Tanya Logvinenko
+  - Stephen B. Calderwood
+  - Michael McClelland
+  - James E. Graham
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: PLoS Neglected Tropical Diseases
+  date: '2011-12-13'
+  link: https://doi.org/b78rj7
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0001193
+  title: "Interferon-\u03B3 and Proliferation Responses to Salmonella enterica Serotype\
+    \ Typhi Proteins in Patients with S. Typhi Bacteremia in Dhaka, Bangladesh"
+  authors:
+  - Alaullah Sheikh
+  - Farhana Khanam
+  - Md. Abu Sayeed
+  - Taibur Rahman
+  - Marcin Pacek
+  - Yanhui Hu
+  - Andrea Rollins
+  - Md. Saruar Bhuiyan
+  - Sean Rollins
+  - Anuj Kalsy
+  - Mohammad Arifuzzaman
+  - Daniel T. Leung
+  - David A. Sarracino
+  - Bryan Krastins
+  - Richelle C. Charles
+  - Regina C. LaRocque
+  - Alejandro Cravioto
+  - Stephen B. Calderwood
+  - W. Abdullah Brooks
+  - Jason B. Harris
+  - Joshua LaBaer
+  - Firdausi Qadri
+  - Edward T. Ryan
+  publisher: PLoS Neglected Tropical Diseases
+  date: '2011-06-07'
+  link: https://doi.org/bsmf6r
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1701-2163(16)34374-2
+  title: Inadequacy of Plasma Acyclovir Levels at Delivery in Patients With Genital
+    Herpes Receiving Oral Acyclovir Suppressive Therapy in Late Pregnancy
+  authors:
+  - Daniel T. Leung
+  - Paul A. Henning
+  - Emily C. Wagner
+  - Audrey Blasig
+  - Anna Wald
+  - Stephen L. Sacks
+  - Lawrence Corey
+  - Deborah M. Money
+  publisher: Journal of Obstetrics and Gynaecology Canada
+  date: '2009-12-01'
+  link: https://doi.org/gs4q4x
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.smj.0000252985.47774.89
+  title: Pre-conceptional Folic Acid Supplementation in Uninsured Pregnant Hispanic
+    Women
+  authors:
+  - Daniel T. Leung
+  - Joseph M. Ernest
+  publisher: Southern Medical Journal
+  date: '2007-01-01'
+  link: https://doi.org/fndt8n
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1517/14656566.5.12.2567
+  title: 'Docosanol: a topical antiviral for herpes labialis'
+  authors:
+  - Daniel T Leung
+  - Stephen L Sacks
+  publisher: Expert Opinion on Pharmacotherapy
+  date: '2004-12-01'
+  link: https://doi.org/b6fg4z
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1517/14656566.4.10.1809
+  title: Current treatment options to prevent perinatal transmission of herpes simplex
+    virus
+  authors:
+  - Daniel T Leung
+  - Stephen L Sacks
+  publisher: Expert Opinion on Pharmacotherapy
+  date: '2003-10-01'
+  link: https://doi.org/fdmgwt
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1570-0232(02)00116-2
+  title: Development and validation of a plasma assay for acyclovir using high-performance
+    capillary electrophoresis with sample stacking
+  authors:
+  - Hung C Vo
+  - Paul A Henning
+  - Daniel T Leung
+  - Stephen L Sacks
+  publisher: Journal of Chromatography B
+  date: '2002-06-01'
+  link: https://doi.org/dmj3md
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0166-3542(02)00054-2
+  title: 'Evidence of dual sites of action of dendrimers: SPL-2999 inhibits both virus
+    entry and late stages of herpes simplex virus replication'
+  authors:
+  - Yunhao Gong
+  - Barry Matthews
+  - Dorothy Cheung
+  - Teresa Tam
+  - Izabelle Gadawski
+  - Daniel Leung
+  - George Holan
+  - John Raff
+  - Stephen Sacks
+  publisher: Antiviral Research
+  date: '2002-08-01'
+  link: https://doi.org/c83j5n
+  orcid: 0000-0001-8401-0801
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0034525315
+  title: Current recommendations for the treatment of genital herpes
+  publisher: Drugs
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034525315&partnerID=MN8TOARS
+  orcid: 0000-0001-8401-0801
   plugin: orcid.py
   file: orcid.yaml
 - id: pubmed:31425581
@@ -938,5 +3020,19 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/31425581
   image: https://academic.oup.com/view-large/figure/204930996/ciz808f0004.jpg
   repo: shauntruelove/Diphtheria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.11.13.23298464
+  title: 'Assessing the Impact of Mask Mandates on SARS-CoV-2 Transmission: A Case
+    Study of Utah'
+  authors:
+  - Alicia C. Horn
+  - Holly E. Shoemaker
+  - Lindsay T. Keegan
+  publisher: medRxiv
+  date: '2023-11-13'
+  link: https://doi.org/gs4qrw
+  type: paper
+  image: images/Efm_copy.png
   plugin: sources.py
   file: sources.yaml
