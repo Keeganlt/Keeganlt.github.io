@@ -5,3 +5,24 @@
 - id: doi:10.1101/2023.11.13.23298464
   type: paper
   image: images/Efm_copy.png
+
+  - id: doi:10.1093/aje/kwac201
+  type: paper
+  image: images/Beams_Carriers.png
+
+- id: doi:10.1001/jamanetworkopen.2021.40906
+  type: paper
+  image: images/Keegan_VE.png
+
+- id: pmid:35394862
+  image: images/Cramer_Forecast.png
+
+- id: pmid:34492025
+  image: images/Wimmer_Model.png
+
+- id: pmid:33900179
+  image: images/ScenaroModelingUtah.png
+  
+- id: pmid:33824358
+  image: images/ScenarioModel.png
+
