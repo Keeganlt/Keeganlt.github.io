@@ -38,7 +38,7 @@ I lead a student-focused group meeting for infectious disease epidemiology, dyna
 
 {%
   include feature.html
-  image="images/R0_Group.png"
+  image="images/R0Logo.png"
   title="R0"
   text=text
 %}
