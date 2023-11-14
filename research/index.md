@@ -13,7 +13,7 @@ We develop and apply methods to understand the spread and control of infectious 
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1093/cid/ciz808" style="rich" %}
+{% include citation.html lookup="pmid:31425581" style="rich" %}
 
 {% include section.html %}
 
