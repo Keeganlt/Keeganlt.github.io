@@ -54,7 +54,7 @@ E3ID hosts a monthly Seminar Series to highlight the interdisciplinary nature of
 
 {%
   include button.html
-  link = https://uofuhealth.utah.edu/immunology-inflammation-infectious-diseases/research/groups/E3ID
+  url = "https://uofuhealth.utah.edu/immunology-inflammation-infectious-diseases/research/groups/E3ID"
   text="Visit the E3ID webpage"
   icon="fa-solid fa-arrow-right"
   flip=true
