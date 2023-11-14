@@ -837,10 +837,8 @@
   date: '2019-08-19'
   link: https://doi.org/gm6s57
   orcid: 0000-0002-8526-3007
-  plugin: sources.py
-  file: sources.yaml
-  image: https://academic.oup.com/view-large/figure/204930996/ciz808f0004.jpg
-  repo: shauntruelove/Diphtheria
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/451153
   title: Perfect Counterfactuals for Epidemic Simulations
   authors:
@@ -923,3 +921,22 @@
   orcid: 0000-0002-8526-3007
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:31425581
+  title: 'Clinical and Epidemiological Aspects of Diphtheria: A Systematic Review
+    and Pooled Analysis.'
+  authors:
+  - Shaun A Truelove
+  - Lindsay T Keegan
+  - William J Moss
+  - Lelia H Chaisson
+  - Emilie Macher
+  - Andrew S Azman
+  - Justin Lessler
+  publisher: 'Clinical infectious diseases : an official publication of the Infectious
+    Diseases Society of America'
+  date: '2020-06-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31425581
+  image: https://academic.oup.com/view-large/figure/204930996/ciz808f0004.jpg
+  repo: shauntruelove/Diphtheria
+  plugin: sources.py
+  file: sources.yaml
