@@ -48,10 +48,19 @@ I lead a student-focused group meeting for infectious disease epidemiology, dyna
 
 The Center for Ecology, Evolution, and Epidemiology of Infectious Diseases (E3ID) at the University of Utah was established as an interdisciplinary campus hub to bring together infectious disease researchers across the University of Utah. The E3ID encompasses expertise in basic science such as ecology, evolution, mathematical biology, social science, and computer science as well as applied disciplines including epidemiology, public health, environmental engineering, and medicine. Our mission is to integrate research across disciplines in order to advance scientific knowledge and provide information to decision makers to improve our ability to respond to infectious disease outbreaks.
 
-E3ID hosts a monthly Seminar Series to highlight the interdisciplinary nature of work in this field. The Seminars will occur on the third Friday of each month and will feature researchers from across the University of Utah campus working in the field of “Ecology, Evolution, and Epidemiology of Infectious Diseases”. If you are interested in presenting your research please email one of the Program Co-Directors.
-
+E3ID hosts a monthly Seminar Series to highlight the interdisciplinary nature of work in this field. The Seminars will occur on the third Friday of each month and will feature researchers from across the University of Utah campus working in the field of “Ecology, Evolution, and Epidemiology of Infectious Diseases”. To learn more, visit the E3ID website. 
 
 {% endcapture %}
+
+{%
+  include button.html
+  link = https://uofuhealth.utah.edu/immunology-inflammation-infectious-diseases/research/groups/E3ID
+  text="Visit the E3ID webpage"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 
 {%
   include feature.html
