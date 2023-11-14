@@ -50,13 +50,6 @@ The Center for Ecology, Evolution, and Epidemiology of Infectious Diseases (E3ID
 
 E3ID hosts a monthly Seminar Series to highlight the interdisciplinary nature of work in this field. The Seminars will occur on the third Friday of each month and will feature researchers from across the University of Utah campus working in the field of “Ecology, Evolution, and Epidemiology of Infectious Diseases”. If you are interested in presenting your research please email one of the Program Co-Directors.
 
-{%
-  include button.html
-  text="Visit the E3ID webpage"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
