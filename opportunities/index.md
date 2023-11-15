@@ -12,7 +12,7 @@ nav:
 
 I am excited to work with undergraduate students, the main way that undergrads can get involved in our group is through the [UROP program](https://our.utah.edu/research-scholarship-opportunities/urop/). We encourage any students who are interested in working with me to reach out directly to discuss questions of interest to then apply for the UROP program. 
 
-Current and former undergrads have received UROP funding to look at questions such as how effective were mask mandates in Utah (Alicia Horn) and does the severity of your infector’s SARS-CoV-2 infection predict the severity of your (infectee) infection (Jake Baldorf).  
+Current and former undergrads have received UROP funding to look at questions such as [how effective were mask mandates in Utah](https://www.medrxiv.org/content/10.1101/2023.11.13.23298464v1) (Alicia Horn) and does the severity of your infector’s SARS-CoV-2 infection predict the severity of your (infectee) infection (Jake Baldorf).  
 
 {% include button.html type="email" text="lindsay.keegan@utah.edu" link="lindsay.keegan@utah.edu" %}
 
