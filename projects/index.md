@@ -44,7 +44,7 @@ Healthcare associated infections pose a significant threat to patient safety, ho
 {% capture content %}
   {%
   include figure.html
-  image="images/K01Aims_long.png"
+  image="images/ForeSITE.png"
   link="team"
   width="400px"
 %}
