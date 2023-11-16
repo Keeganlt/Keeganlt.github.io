@@ -41,18 +41,7 @@ Healthcare associated infections pose a significant threat to patient safety, ho
 
 ## Implementing modeling tools in public health and healthcare settings 
 
-{% capture content %}
-  {%
-  include figure.html
-  image="images/ForeSITE.png"
-  link="team"
-  width="400px"
-%}
-{% endcapture %}
 
-{%
-  include float.html
-  content=content
-  %}
+ 
 
-## Modeling emerging and re-emerging pathogens guide outbreak response 
+## Modeling emerging and re-emerging pathogens to guide outbreak response 
