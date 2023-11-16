@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-viruses" %}Research Projects
+# {% include icon.html icon="fa-solid fa-viruses" %}Research
 
 Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. Our group develops and applies mathematical and statistical methods to quantify infectious disease dynamics to inform decision suport for public health and healthcare response to outbreak. 
 
@@ -20,10 +20,15 @@ Work from our group has been used to guide the public health response to multipl
 
 ## Reconstructing transmission of healthcare associated infections
 
+Healthcare associated infections pose a significant threat to patient safety, however, controlling them remains a challenge.  until we a better understand of how pathogens are spreading. Identifying and controlling routes of transmission within healthcare facilities remains a critical challenge to controlling healthcare associated infections. Because patients generally do not directly contact each other, the majority of transmission must occur through an intermediary vector. However, there are an overwhelming number of potential routes of transmission within a healthcare facility. Determining routes of transmission and identifying the role of environmental surfaces in transmission are essential to controlling healthcare associated infections. Using data from a longitudinal surveillance study in two ICUs, we aim to develop a method that integrates genomic and epidemiologic movement data to identify the role of other patients, environmental surfaces, and HCW hands in the routes of transmission between patients and their environment and thereby facilitate the tailoring of interventions to key steps along the transmission pathway. 
+
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## Implementing modeling tools in public health and healthcare settings 
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+
+## Modeling emerging and re-emerging pathogens guide outbreak response 
