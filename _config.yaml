@@ -1,12 +1,12 @@
 # site properties and page defaults
 title: Applied Infectious Disease Dyanmcis 
 subtitle: 
-description: Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. 
+description: Using dynamical models to support decisions about public health response to outbreaks. 
 logo-text: false
 header: images/CampusViewTop.jpg
 footer: images/CampusViewBottom.png
-header-dark: false
-footer-dark: false
+header-dark: true
+footer-dark: true
 
 # site social media and other links
 links:
