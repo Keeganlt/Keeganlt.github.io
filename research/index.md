@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-file-lines" %}Publications
 
-We develop and apply methods to understand the spread and control of infectious diseases. 
-
 {% include section.html %}
 
 ## Highlighted
