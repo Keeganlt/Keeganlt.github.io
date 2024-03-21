@@ -5,7 +5,7 @@ description: Using dynamical models to support decisions about public health res
 logo-text: false
 header: images/CampusViewTop.jpg
 footer: images/CampusViewBottom.png
-header-dark: false
+header-dark: true
 footer-dark: true
 
 # site social media and other links
