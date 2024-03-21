@@ -37,6 +37,10 @@ Healthcare associated infections pose a significant threat to patient safety, ho
 
 ## Implementing modeling tools in public health and healthcare settings 
 
+{% capture content %} {% include figure.html image="images/ScenaroModelingUtah.png" link="team" width="400px" %} {% endcapture %}
+
+
+
 Decisions about public health response to an outbreak need to be made even when there is substantial uncertainty and unpredictability. While modeling has been critical to planning outbreak responses since at least the emergence of HIV 40 years ago, the implementation of models to inform real-world decisions is challenging. Indeed, the fast-moving operational timescales of public health policy are often at odds with the traditionally slower and iterative science of epidemiologic modeling. One of the central research themes of our group has been to develop models for decision support and alongside public health, healthcare, and policy makers to integrate models as an evidence stream for decision making. Work from our group has been used to guide the public health and healthcare response to multiple pathogens including SARS-CoV-2 and [Diphtheria](https://iris.who.int/bitstream/handle/10665/375887/WHO-DIPH-Clinical-2024.1-eng.pdf?sequence=1). 
  
 
