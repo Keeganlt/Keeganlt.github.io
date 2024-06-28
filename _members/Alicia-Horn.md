@@ -1,7 +1,7 @@
 ---
 name: Alicia Horn (She/Her)
 image: images/Alicia.jpeg
-role: undergrad
+role: alumni
 aliases:
   - A Horn
 ---
