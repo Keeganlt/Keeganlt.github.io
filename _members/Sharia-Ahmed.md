@@ -1,7 +1,7 @@
 ---
 name: Sharia Ahmed (She/Her)
 image: images/Ahmedheadshot.jpg
-role: research-assoc
+role: alumni
 aliases:
   - S Ahmed
 ---
