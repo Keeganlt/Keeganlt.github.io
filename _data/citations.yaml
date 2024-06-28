@@ -49,21 +49,21 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.02.03.21250974
-  title: Evaluation of individual and ensemble probabilistic forecasts of COVID-19
-    mortality in the US
+  title: "Evaluation of individual and ensemble probabilistic forecasts of COVID-19\n\
+    \                    mortality in the US"
   authors:
-  - Estee Y. Cramer
-  - Evan L. Ray
-  - Velma K. Lopez
+  - Estee Y Cramer
+  - Evan L Ray
+  - Velma K Lopez
   - Johannes Bracher
   - Andrea Brennen
-  - Alvaro J. Castro Rivadeneira
+  - Alvaro J Castro Rivadeneira
   - Aaron Gerding
   - Tilmann Gneiting
-  - Katie H. House
+  - Katie H House
   - Yuxin Huang
   - Dasuni Jayawardena
-  - Abdul H. Kanji
+  - Abdul H Kanji
   - Ayush Khandelwal
   - Khoa Le
   - "Anja M\xFChlemann"
@@ -72,7 +72,7 @@
   - Ariane Stark
   - Yijin Wang
   - Nutcha Wattanachit
-  - Martha W. Zorn
+  - Martha W Zorn
   - Youyang Gu
   - Sansiddh Jain
   - Nayana Bannur
@@ -83,43 +83,43 @@
   - Siddhant Shingi
   - Avtansh Tiwari
   - Jerome White
-  - Neil F. Abernethy
+  - Neil F Abernethy
   - Spencer Woody
   - Maytal Dahan
   - Spencer Fox
   - Kelly Gaither
   - Michael Lachmann
   - Lauren Ancel Meyers
-  - James G. Scott
+  - James G Scott
   - Mauricio Tec
   - Ajitesh Srivastava
-  - Glover E. George
-  - Jeffrey C. Cegan
-  - Ian D. Dettwiller
-  - William P. England
-  - Matthew W. Farthing
-  - Robert H. Hunter
+  - Glover E George
+  - Jeffrey C Cegan
+  - Ian D Dettwiller
+  - William P England
+  - Matthew W Farthing
+  - Robert H Hunter
   - Brandon Lafferty
   - Igor Linkov
-  - Michael L. Mayo
-  - Matthew D. Parno
-  - Michael A. Rowland
-  - Benjamin D. Trump
+  - Michael L Mayo
+  - Matthew D Parno
+  - Michael A Rowland
+  - Benjamin D Trump
   - Yanli Zhang-James
   - Samuel Chen
-  - Stephen V. Faraone
+  - Stephen V Faraone
   - Jonathan Hess
-  - Christopher P. Morley
+  - Christopher P Morley
   - Asif Salekin
   - Dongliang Wang
-  - Sabrina M. Corsetti
-  - Thomas M. Baer
-  - Marisa C. Eisenberg
+  - Sabrina M Corsetti
+  - Thomas M Baer
+  - Marisa C Eisenberg
   - Karl Falb
   - Yitao Huang
-  - Emily T. Martin
+  - Emily T Martin
   - Ella McCauley
-  - Robert L. Myers
+  - Robert L Myers
   - Tom Schwarz
   - Daniel Sheldon
   - Graham Casey Gibson
@@ -142,17 +142,17 @@
   - Hannah Biegel
   - Joceline Lega
   - Steve McConnell
-  - V. P. Nagraj
-  - Stephanie L. Guertin
+  - VP Nagraj
+  - Stephanie L Guertin
   - Christopher Hulme-Lowe
-  - Stephen D. Turner
+  - Stephen D Turner
   - Yunfeng Shi
   - Xuegang Ban
   - Robert Walraven
   - Qi-Jun Hong
   - Stanley Kong
-  - Axel Walle
-  - James A. Turtle
+  - Axel van de Walle
+  - James A Turtle
   - Michal Ben-Nun
   - Steven Riley
   - Pete Riley
@@ -194,9 +194,9 @@
   - Shun Zheng
   - Alessandro Vespignani
   - Matteo Chinazzi
-  - Jessica T. Davis
+  - Jessica T Davis
   - Kunpeng Mu
-  - Ana Pastore Piontti
+  - Ana Pastore y Piontti
   - Xinyue Xiong
   - Andrew Zheng
   - Jackie Baek
@@ -216,7 +216,7 @@
   - Ali Jadbabaie
   - Devavrat Shah
   - Nicolas Della Penna
-  - Leo A. Celi
+  - Leo A Celi
   - Saketh Sundar
   - Russ Wolfinger
   - Dave Osthus
@@ -230,21 +230,21 @@
   - Lauren Shin
   - Katharine Tallaksen
   - Shelby Wilson
-  - Elizabeth C. Lee
+  - Elizabeth C Lee
   - Juan Dent
-  - Kyra H. Grantz
-  - Alison L. Hill
+  - Kyra H Grantz
+  - Alison L Hill
   - Joshua Kaminsky
   - Kathryn Kaminsky
-  - Lindsay T. Keegan
-  - Stephen A. Lauer
-  - Joseph C. Lemaitre
+  - Lindsay T Keegan
+  - Stephen A Lauer
+  - Joseph C Lemaitre
   - Justin Lessler
-  - Hannah R. Meredith
+  - Hannah R Meredith
   - Javier Perez-Saez
   - Sam Shah
-  - Claire P. Smith
-  - Shaun A. Truelove
+  - Claire P Smith
+  - Shaun A Truelove
   - Josh Wills
   - Maximilian Marshall
   - Lauren Gardner
@@ -258,17 +258,17 @@
   - Guannan Wang
   - Yueying Wang
   - Shan Yu
-  - Robert C. Reiner
+  - Robert C Reiner
   - Ryan Barber
   - Emmanuela Gakidou
   - Simon I. Hay
   - Steve Lim
-  - Chris J. L. Murray
+  - Chris J.L. Murray
   - David Pigott
-  - Heidi L. Gurung
+  - Heidi L Gurung
   - Prasith Baccam
-  - Steven A. Stage
-  - Bradley T. Suchoski
+  - Steven A Stage
+  - Bradley T Suchoski
   - B. Aditya Prakash
   - Bijaya Adhikari
   - Jiaming Cui
@@ -280,11 +280,11 @@
   - Arden Baxter
   - Buse Eylul Oruc
   - Nicoleta Serban
-  - Sercan O. Arik
+  - Sercan O Arik
   - Mike Dusenberry
   - Arkady Epshteyn
   - Elli Kanal
-  - Long T. Le
+  - Long T Le
   - Chun-Liang Li
   - Tomas Pfister
   - Dario Sava
@@ -294,17 +294,17 @@
   - Jinsung Yoon
   - Leyou Zhang
   - Sam Abbott
-  - Nikos I. Bosse
+  - Nikos I Bosse
   - Sebastian Funk
   - Joel Hellewell
-  - Sophie R. Meakin
+  - Sophie R Meakin
   - Katharine Sherratt
   - Mingyuan Zhou
   - Rahi Kalantari
-  - Teresa K. Yamana
+  - Teresa K Yamana
   - Sen Pei
   - Jeffrey Shaman
-  - Michael L. Li
+  - Michael L Li
   - Dimitris Bertsimas
   - Omar Skali Lami
   - Saksham Soni
@@ -312,9 +312,9 @@
   - Turgay Ayer
   - Madeline Adee
   - Jagpreet Chhatwal
-  - Ozden O. Dalgic
-  - Mary A. Ladd
-  - Benjamin P. Linas
+  - Ozden O Dalgic
+  - Mary A Ladd
+  - Benjamin P Linas
   - Peter Mueller
   - Jade Xiao
   - Yuanjia Wang
@@ -324,7 +324,7 @@
   - Alden Green
   - Jacob Bien
   - Logan Brooks
-  - Addison J. Hu
+  - Addison J Hu
   - Maria Jahja
   - Daniel McDonald
   - Balasubramanian Narasimhan
@@ -332,23 +332,23 @@
   - Samyak Rajanala
   - Aaron Rumack
   - Noah Simon
-  - Ryan J. Tibshirani
+  - Ryan J Tibshirani
   - Rob Tibshirani
   - Valerie Ventura
   - Larry Wasserman
-  - "Eamon B. O\u2019Dea"
-  - John M. Drake
+  - "Eamon B O\u2019Dea"
+  - John M Drake
   - Robert Pagano
-  - Quoc T. Tran
+  - Quoc T Tran
   - Lam Si Tung Ho
   - Huong Huynh
-  - Jo W. Walker
-  - Rachel B. Slayton
-  - Michael A. Johansson
+  - Jo W Walker
+  - Rachel B Slayton
+  - Michael A Johansson
   - Matthew Biggerstaff
-  - Nicholas G. Reich
-  publisher: medRxiv
-  date: '2021-12-10'
+  - Nicholas G Reich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-02-05'
   link: https://doi.org/gs4m2v
   orcid: 0000-0002-8526-3007
   plugin: orcid.py
