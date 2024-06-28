@@ -45,7 +45,7 @@ Our team works on a multitude of different pathogen systems and as such, we have
 
 {%
   include feature.html
-  image="images/CovidModelDiag.pdf"
+  image="images/Figure4.png"
   link="research"
   title="Our Publications"
   flip=true
