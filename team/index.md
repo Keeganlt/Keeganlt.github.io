@@ -14,6 +14,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: research-assoc" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
@@ -31,7 +32,7 @@ Interested in joining us? Take a look at our [current opportunities](https://kee
 {% capture content %}
 
 {% include figure.html image="images/CDC_Talk.png" %}
-{% include figure.html image="images/CFAVisit.jpeg" %}
+{% include figure.html image="images/AlaiyahPoster.png" %}
 {% include figure.html image="images/Lacross-Sheets.png" %}
 
 {% endcapture %}
