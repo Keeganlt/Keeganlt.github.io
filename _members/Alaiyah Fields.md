@@ -1,7 +1,7 @@
 ---
 name: Alaiyah Fields (She/Her)
 image: images/Alaiyah.jpeg
-role: undergrad
+role: alumni
 aliases:
   - A Fields
 ---
