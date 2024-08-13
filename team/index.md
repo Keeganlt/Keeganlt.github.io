@@ -33,7 +33,7 @@ Interested in joining us? Take a look at our [current opportunities](https://kee
 
 {% include figure.html image="images/CDC_Talk.png" %}
 {% include figure.html image="images/AlaiyahPoster.png" %}
-{% include figure.html image="images/Lacross-Sheets.png" %}
+{% include figure.html image="images/TierneyCDC.jpg" %}
 
 {% endcapture %}
 
