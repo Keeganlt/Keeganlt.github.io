@@ -1,1 +1,1 @@
-Sitemap: /AppliedIDD-website/sitemap.xml
+Sitemap: /sitemap.xml
