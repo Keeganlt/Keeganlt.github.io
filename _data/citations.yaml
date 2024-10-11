@@ -1312,7 +1312,7 @@
   image: images/ScenaroModelingUtah.png
   plugin: sources.py
   file: sources.yaml
-- id: pmid:33824358
+- id: 33824358
   title: A scenario modeling pipeline for COVID-19 emergency planning.
   authors:
   - Joseph C Lemaitre
