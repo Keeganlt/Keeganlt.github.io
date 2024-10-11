@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.08.28.24312731
+  title: A theoretical framework to quantify the tradeoff between individual and population
+    benefits of expanded antibiotic use
+  authors:
+  - Cormac R. LaPrete
+  - Sharia M. Ahmed
+  - Damon J.A. Toth
+  - Jody R. Reimer
+  - Valerie M. Vaughn
+  - Frederick R. Adler
+  - Lindsay T. Keegan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-08-28'
+  link: https://doi.org/g754qb
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0306622
   title: Importance of underlying mechanisms for interpreting relative risk of Clostridioides
     difficile infection among antibiotic-exposed patients in healthcare facilities
@@ -14,6 +31,23 @@
   publisher: PLOS ONE
   date: '2024-08-08'
   link: https://doi.org/g754mb
+  orcid: 0000-0002-8526-3007
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.04.18.24306047
+  title: Model-based estimates of age-structured SARS-CoV-2 epidemiology in households
+  authors:
+  - Damon J.A. Toth
+  - Theresa R. Sheets
+  - Alexander B. Beams
+  - Sharia M. Ahmed
+  - Nathan Seegert
+  - Jay Love
+  - Lindsay T. Keegan
+  - Matthew H. Samore
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-19'
+  link: https://doi.org/g754qc
   orcid: 0000-0002-8526-3007
   plugin: orcid.py
   file: orcid.yaml
