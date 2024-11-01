@@ -61,4 +61,4 @@ Decisions about public health response to an outbreak need to be made even when 
   flip=true
 %}
 
-Although the primary focus of our lab is to develop and models for public health decision making, an enduring direction of our group is to develop theoretical models that enhance the foundational understanding of key public health concepts. This includes developing models to improve understanding of foundational epidemiological quantities, such as R~0~ or heterogeneity, and exploring the trade-offs between individual and population-level benefits of antibiotic treatment.
+Although the primary focus of our lab is applying models for public health decision making, an enduring direction of our group is to develop theoretical models that enhance the foundational understanding of key public health concepts. This includes developing models to improve understanding of foundational epidemiological quantities, such as R~0~ or heterogeneity, and exploring the trade-offs between individual and population-level benefits of antibiotic treatment.
