@@ -7,7 +7,10 @@
 
 {% capture text %}
 
-The Applied Infectious Disease Dynamics group develops and applies mathematical and statistical methods to quantify infectious disease dynamics to inform decision support for public health and healthcare response to outbreaks. Detail on our funded projects can be found on our research page. 
+The Applied Infectious Disease Dynamics group develops and applies mathematical and statistical methods to quantify infectious disease dynamics to inform decision support for public health and healthcare response to outbreaks. 
+
+The central focus of the Applied Infectious Disease Dynamics lab is to advance understanding of how infectious disease transmission dynamics impact control and elimination strategies. We aim to develop and apply novel statistical and dynamical approaches to inform public health decisions about outbreak response. Our research bridges theoretical advancements in infectious disease dynamics with the practical application of mathematical methods to disease control. Currently, we are developing innovative methods to track pathogen spread in healthcare settings, applying dynamical models to respond to COVID-19, and building a theoretical framework to quantify the impact of expanded antibiotic eligibility on cholera control and antibiotic resistance risk. Detail on our funded projects can be found on our research page. 
+
 
 {%
   include button.html
