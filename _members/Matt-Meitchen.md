@@ -1,7 +1,7 @@
 ---
 name: Matthew Meitchen (He/Him)
 image: images/MattM.jpg
-role: postdoc
+role: alumni
 aliases:
   - M Meitchen
 ---
