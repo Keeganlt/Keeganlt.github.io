@@ -8,4 +8,4 @@ aliases:
 
 BRIDGE-UP Undergraduate Summer Student
 
-Oniya is an undergraduate studente at Clark Atlanta University majoring in Biology. As a BRIDGE-UP fellow, she is working on undestanding the ecological niche of Cholera. 
+Oniya is an undergraduate student at Clark Atlanta University majoring in Biology. As a BRIDGE-UP fellow, she is working on undestanding the ecological niche of Cholera. 
