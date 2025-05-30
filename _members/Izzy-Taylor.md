@@ -1,6 +1,6 @@
 ---
 name: Izzy Taylor (She/Her)
-image: images/noun_person.png
+image: images/IzzyHeadshot.jpg
 role: undergrad
 
 ---
