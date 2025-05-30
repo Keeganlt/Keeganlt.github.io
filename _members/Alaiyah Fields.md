@@ -8,4 +8,4 @@ aliases:
 
 BRIDGE-UP Undergraduate Summer Student
 
-Alaiyah is an undergraduate studente at Texas Southern University. As a BRIDGE-UP fellow, she is working on undestanding the impact of conflict on diphtheria outbreaks. 
+Alaiyah is an undergraduate student at Texas Southern University. As a BRIDGE-UP fellow, she is working on undestanding the impact of conflict on diphtheria outbreaks. 
