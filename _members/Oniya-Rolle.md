@@ -1,6 +1,6 @@
 ---
 name: Oniya Rolle (She/Her)
-image: images/Oniya.jpeg
+image: images/OniyaHeadshot.png
 role: undergrad
 aliases:
   - O Rolle
