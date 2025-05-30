@@ -1,0 +1,11 @@
+---
+name: Oniya Rolle (She/Her)
+image: images/Oniya.jpeg
+role: undergrad
+aliases:
+  - O Rolle
+---
+
+BRIDGE-UP Undergraduate Summer Student
+
+Oniya is an undergraduate studente at Clark Atlanta University majoring in Biology. As a BRIDGE-UP fellow, she is working on undestanding the ecological niche of Cholera. 
