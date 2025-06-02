@@ -1,8 +1,8 @@
 ---
 name: Noah Eisbach (He/Him)
-image: images/noun_person.png
+image: images/noahHeadshot.jpeg
 role: undergrad
 
 ---
  
-Noah is a SRI student in the lab, majoring in Biomedical Engineering
+Noah is a dual major in Biomedical Engineering and German at the University of Utah. His research involves modeling the transmission dynamics of cholera, with a focus on positive feedback mechanisms between disease incidence and behavioral response. 
