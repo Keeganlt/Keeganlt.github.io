@@ -1,6 +1,6 @@
 ---
 name: Lindsay Keegan (She/Her)
-image: images/KeeganHeadshot.png
+image: images/KeeganHeadshot2025.jpg
 role: pi
 links:
   orcid: 0000-0002-8526-3007
